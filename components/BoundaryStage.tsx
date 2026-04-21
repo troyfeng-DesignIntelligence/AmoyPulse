@@ -321,7 +321,7 @@ export function BoundaryStage() {
     cueDirectionRef.current = 1;
     audio.ambience.reverb.wet.rampTo(clamp01(0.38 + mixer.glow * 0.6), 0.06);
     audio.ambience.filter.frequency.rampTo(2600 + mixer.high * 2600, 0.06);
-    audio.ambience.noise.triggerAttackRelease(["16n", "16n"], now, 0.55 + mixer.sparkleAmount * 0.25);
+    audio.ambience.noise.triggerAttackRelease(Tone.Time("16n").toSeconds(), now, 0.55 + mixer.sparkleAmount * 0.25);
     audio.drums.hat.triggerAttackRelease("32n", now + 0.008, 0.18 + mixer.high * 0.12);
     audio.drums.volume.volume.rampTo(-48 + mixer.low * 4, 0.05);
     audio.strings.volume.volume.rampTo(-20 + mixer.mid * 4, 0.05);
