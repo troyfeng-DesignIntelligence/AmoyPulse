@@ -81,7 +81,9 @@ export function Home() {
   const line5Blur = useTransform(scrollYProgress, [0.76, 0.94, 0.98], ["blur(0px)", "blur(0px)", "blur(4px)"]);
 
   const waveformItems = useMemo(() => {
-    const points = ((poiData as { points: PoiItem[] }).points ?? []).filter((point) => Array.isArray(point.coords));
+    const points = (((poiData as unknown) as { points?: PoiItem[] }).points ?? []).filter(
+      (point): point is PoiItem => Array.isArray(point.coords) && point.coords.length >= 2,
+    );
     const xs = points.map((point) => point.coords[0]);
     const ys = points.map((point) => point.coords[1]);
     const minX = Math.min(...xs);
