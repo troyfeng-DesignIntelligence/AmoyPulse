@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Futura Custom";
+    src: local("Futura"), local("Futura PT"), local("Century Gothic");
+    font-display: swap;
+  }
+
+  :root {
+    --font-title: "Blippo", "Futura Custom", "Avenir Next", "Helvetica Neue", sans-serif;
+    --font-ui: "Blippo", "Futura Custom", "Avenir Next", "Helvetica Neue", sans-serif;
+    --font-body: "Cormorant Garamond", serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    background: #050505;
+    color: #fff;
+    font-family: var(--font-body);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}

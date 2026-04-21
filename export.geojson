@@ -1,0 +1,6230 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-15T02:01:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296469398",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "name": "玉仁食堂",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.173664,
+          24.4896948
+        ]
+      },
+      "id": "way/296469398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386930646",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "188海鲜大排档",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1361372,
+          24.4376003
+        ]
+      },
+      "id": "way/386930646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386977952",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "三棵树海鲜大排档",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1363243,
+          24.4376154
+        ]
+      },
+      "id": "way/386977952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440491169",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "新海渔村",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1939861,
+          24.4911204
+        ]
+      },
+      "id": "way/440491169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446646217",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "大羊丰店",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1021375,
+          24.4904554
+        ]
+      },
+      "id": "way/446646217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448583223",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "夏商.好清香",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1028505,
+          24.4908564
+        ]
+      },
+      "id": "way/448583223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474150156",
+        "addr:city": "Xiamen (Fujian)",
+        "addr:housenumber": "54#32",
+        "addr:postcode": "361005",
+        "addr:street": "民族路",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "30",
+        "cuisine": "german",
+        "name": "Odenwalder German Restaurant",
+        "name:de": "Odenwalder deutsches Restaurant",
+        "opening_hours": "11:30-21:30",
+        "outdoor_seating": "yes",
+        "phone": "+86 157 5923 3454",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0781299,
+          24.4460071
+        ]
+      },
+      "id": "way/474150156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539949209",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Jun Hao Hui XiangLa YouHuo Sichuan Restaurant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1189197,
+          24.50123
+        ]
+      },
+      "id": "way/539949209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547187452",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "202特色排档",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.155196,
+          24.4832252
+        ]
+      },
+      "id": "way/547187452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547187835",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "洪文大排档",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1550647,
+          24.4820297
+        ]
+      },
+      "id": "way/547187835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/578316436",
+        "addr:city": "厦门",
+        "addr:postcode": "361008",
+        "addr:street": "文兴东路",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "南海渔村餐厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1787908,
+          24.4659096
+        ]
+      },
+      "id": "way/578316436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641097289",
+        "amenity": "restaurant",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.065824,
+          24.4455168
+        ]
+      },
+      "id": "way/641097289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909149648",
+        "amenity": "public_bookcase",
+        "name": "Huli 24-hour Self-service Library",
+        "opening_hours": "24/7",
+        "operator": "Xiamen Municipal LIbrary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1647211,
+          24.5218202
+        ]
+      },
+      "id": "way/909149648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048888",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "锦鲜品芳",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1041712,
+          24.4752411
+        ]
+      },
+      "id": "way/1037048888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048889",
+        "amenity": "restaurant",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1041546,
+          24.4752881
+        ]
+      },
+      "id": "way/1037048889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048894",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "袁阿姨东北水饺",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1041181,
+          24.4754746
+        ]
+      },
+      "id": "way/1037048894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048895",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "阿斌漳州四果汤",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1041093,
+          24.4755022
+        ]
+      },
+      "id": "way/1037048895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048897",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "味兴小吃店",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1040859,
+          24.4755706
+        ]
+      },
+      "id": "way/1037048897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048905",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "广东肠粉",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1040158,
+          24.4757763
+        ]
+      },
+      "id": "way/1037048905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037048906",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "noodle",
+        "name": "思北酸笋面",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1040046,
+          24.4758103
+        ]
+      },
+      "id": "way/1037048906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037063854",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "有一家简餐店",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.102661,
+          24.4749305
+        ]
+      },
+      "id": "way/1037063854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037063860",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "闽家小灶",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1027218,
+          24.4747427
+        ]
+      },
+      "id": "way/1037063860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037859250",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "潮汕卤鹅金榜店",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10277,
+          24.4745926
+        ]
+      },
+      "id": "way/1037859250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037859251",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "渔家庄金榜店",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1027853,
+          24.4745458
+        ]
+      },
+      "id": "way/1037859251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037859253",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "随心烧烤",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.102815,
+          24.4744544
+        ]
+      },
+      "id": "way/1037859253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037859262",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "李董哥",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1029423,
+          24.4740582
+        ]
+      },
+      "id": "way/1037859262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1055303647",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "未来海鲜大排档",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1020221,
+          24.4735432
+        ]
+      },
+      "id": "way/1055303647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1588295483",
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0689473,
+          24.4581979
+        ]
+      },
+      "id": "node/1588295483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1598754945",
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1101066,
+          24.4748973
+        ]
+      },
+      "id": "node/1598754945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1636073710",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1725551,
+          24.5063109
+        ]
+      },
+      "id": "node/1636073710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659973120",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1710305,
+          24.4962751
+        ]
+      },
+      "id": "node/1659973120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659973123",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.170824,
+          24.4962995
+        ]
+      },
+      "id": "node/1659973123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659973124",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1708991,
+          24.4962897
+        ]
+      },
+      "id": "node/1659973124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659973125",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1710841,
+          24.4962751
+        ]
+      },
+      "id": "node/1659973125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1761690548",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0926682,
+          24.4436179
+        ]
+      },
+      "id": "node/1761690548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1761690575",
+        "amenity": "restaurant",
+        "name": "Villa 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0936374,
+          24.44182
+        ]
+      },
+      "id": "node/1761690575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1761690581",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0923651,
+          24.4437229
+        ]
+      },
+      "id": "node/1761690581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762860429",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0630253,
+          24.4482709
+        ]
+      },
+      "id": "node/1762860429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843122384",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "香村瓦缸煨汤馆",
+        "name:fr": "Restaurant de soupes mijotées en jarre de Xiāngcūn",
+        "name:zh": "香村瓦缸煨汤馆",
+        "name:zh-Latn-pinyin": "xiāngcūn wǎgāng wēitāng guǎn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0769642,
+          24.4574942
+        ]
+      },
+      "id": "node/1843122384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936999125",
+        "amenity": "bar",
+        "name": "Helen's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0838497,
+          24.4462643
+        ]
+      },
+      "id": "node/1936999125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024699349",
+        "amenity": "restaurant",
+        "brand": "必胜客",
+        "brand:en": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "zh:必胜客",
+        "brand:zh": "必胜客",
+        "cuisine": "pizza",
+        "name": "必胜客",
+        "name:en": "Pizza Hut",
+        "name:zh": "必胜客"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0746851,
+          24.4638258
+        ]
+      },
+      "id": "node/2024699349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024699366",
+        "amenity": "nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0710021,
+          24.4736883
+        ]
+      },
+      "id": "node/2024699366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024699372",
+        "amenity": "nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0714825,
+          24.4737034
+        ]
+      },
+      "id": "node/2024699372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024699373",
+        "amenity": "nightclub",
+        "name": "诺亚金樽",
+        "name:en": "Nuoya Jinzun",
+        "name:zh": "诺亚金樽"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0705008,
+          24.4739719
+        ]
+      },
+      "id": "node/2024699373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303555454",
+        "addr:city": "厦门市",
+        "addr:street": "湖光路",
+        "amenity": "restaurant",
+        "name": "味稻粥城"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1001647,
+          24.479147
+        ]
+      },
+      "id": "node/2303555454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3050323615",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0933978,
+          24.4415524
+        ]
+      },
+      "id": "node/3050323615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051160184",
+        "amenity": "restaurant",
+        "name": "芙蓉餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0973197,
+          24.4381454
+        ]
+      },
+      "id": "node/3051160184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051160189",
+        "amenity": "cafe",
+        "name": "1921咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0987378,
+          24.4384369
+        ]
+      },
+      "id": "node/3051160189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3196499328",
+        "amenity": "restaurant",
+        "name": "海滨餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1015469,
+          24.4349366
+        ]
+      },
+      "id": "node/3196499328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3841272927",
+        "addr:city": "厦门",
+        "addr:housenumber": "422",
+        "addr:postcode": "361005",
+        "addr:street": "思明南路",
+        "amenity": "restaurant",
+        "name": "东苑餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0971948,
+          24.4384482
+        ]
+      },
+      "id": "node/3841272927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3870729636",
+        "amenity": "restaurant",
+        "name": "重庆麻辣烫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1034539,
+          24.4707853
+        ]
+      },
+      "id": "node/3870729636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3870729646",
+        "amenity": "restaurant",
+        "name": "露江小吃姜母鸭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1032696,
+          24.4706496
+        ]
+      },
+      "id": "node/3870729646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951690975",
+        "amenity": "restaurant",
+        "cuisine": "dumplings",
+        "name": "北方人饺子馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0814528,
+          24.470611
+        ]
+      },
+      "id": "node/3951690975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951690976",
+        "amenity": "restaurant",
+        "name": "融绘鱼肆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0816265,
+          24.4713213
+        ]
+      },
+      "id": "node/3951690976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4011287259",
+        "amenity": "restaurant",
+        "name": "玉仁食堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.181769,
+          24.4895392
+        ]
+      },
+      "id": "node/4011287259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4036209425",
+        "addr:housenumber": "2號",
+        "addr:street": "金山路",
+        "amenity": "restaurant",
+        "name": "廈門盛捷公寓",
+        "phone": "+86 592 323 6888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1701338,
+          24.4880127
+        ]
+      },
+      "id": "node/4036209425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4036209426",
+        "amenity": "restaurant",
+        "name": "伊兰风情"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1701779,
+          24.4876637
+        ]
+      },
+      "id": "node/4036209426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4063521850",
+        "amenity": "restaurant",
+        "name": "小眼镜大排档"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0873525,
+          24.4566706
+        ]
+      },
+      "id": "node/4063521850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4063521851",
+        "amenity": "restaurant",
+        "name": "小舒友大排档"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0869342,
+          24.4568831
+        ]
+      },
+      "id": "node/4063521851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118786826",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1695584,
+          24.4832935
+        ]
+      },
+      "id": "node/4118786826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4151117800",
+        "amenity": "restaurant",
+        "name": "上湖居"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1030199,
+          24.470662
+        ]
+      },
+      "id": "node/4151117800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4191876423",
+        "amenity": "restaurant",
+        "name": "豆捞坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1861242,
+          24.4757506
+        ]
+      },
+      "id": "node/4191876423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220908218",
+        "addr:city": "厦门",
+        "addr:housenumber": "296号香港广场121店铺",
+        "addr:street": "厦禾路 Xiahe Road",
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "internet_access": "yes",
+        "level": "1",
+        "name": "Chai",
+        "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 13:00-23:00",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0750875,
+          24.4625798
+        ]
+      },
+      "id": "node/4220908218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4290388899",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "乌糖沙茶面",
+        "name:zh": "乌糖沙茶面",
+        "name:zh-Hans": "乌糖沙茶面",
+        "name:zh-Hant": "烏糖沙茶麵"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0793162,
+          24.4463069
+        ]
+      },
+      "id": "node/4290388899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4312333031",
+        "addr:street": "蜂巢山路",
+        "amenity": "restaurant",
+        "name": "緣盛意"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0841005,
+          24.4443251
+        ]
+      },
+      "id": "node/4312333031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332323005",
+        "amenity": "restaurant",
+        "branch": "七星西路分店",
+        "name": "四里沙茶面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0913713,
+          24.490472
+        ]
+      },
+      "id": "node/4332323005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4335480821",
+        "amenity": "restaurant",
+        "cuisine": "闽南菜",
+        "name": "宝贵"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0905057,
+          24.4837902
+        ]
+      },
+      "id": "node/4335480821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4335480822",
+        "amenity": "restaurant",
+        "cuisine": "烧烤",
+        "name": "蚝好吃"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0908195,
+          24.4838268
+        ]
+      },
+      "id": "node/4335480822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4335480827",
+        "amenity": "restaurant",
+        "cuisine": "烧烤",
+        "name": "羊事儿"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0919246,
+          24.4841246
+        ]
+      },
+      "id": "node/4335480827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370114290",
+        "addr:district": "思明区",
+        "addr:housenumber": "154",
+        "addr:place": "沙坡尾艺术西区",
+        "addr:postcode": "361005",
+        "amenity": "pub",
+        "branch": "艺术西区厂区店",
+        "name": "胖胖啤酒马",
+        "name:nl": "Fat Fat Beer Horse",
+        "name:zh-Hans": "胖胖啤酒马"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.082271,
+          24.4401017
+        ]
+      },
+      "id": "node/4370114290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370689725",
+        "amenity": "bar",
+        "name:nl": "Absinth bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0829374,
+          24.4417137
+        ]
+      },
+      "id": "node/4370689725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382319585",
+        "addr:housenumber": "10",
+        "addr:postcode": "361012",
+        "addr:street": "湖滨北路",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "厦门 厦门",
+        "name:en": "Greg's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0749631,
+          24.4799366
+        ]
+      },
+      "id": "node/4382319585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413193699",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "金燕福海鲜餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0753177,
+          24.4787738
+        ]
+      },
+      "id": "node/4413193699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4489893990",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1144693,
+          24.4897872
+        ]
+      },
+      "id": "node/4489893990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4489893991",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0795935,
+          24.4793094
+        ]
+      },
+      "id": "node/4489893991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4489895389",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0972523,
+          24.4746887
+        ]
+      },
+      "id": "node/4489895389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574156996",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0702696,
+          24.4741953
+        ]
+      },
+      "id": "node/4574156996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599775900",
+        "amenity": "restaurant",
+        "name": "好香来"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0888728,
+          24.4679261
+        ]
+      },
+      "id": "node/4599775900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4658659655",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "兰州拉面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.092251,
+          24.4892461
+        ]
+      },
+      "id": "node/4658659655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4750191721",
+        "addr:housenumber": "5-8",
+        "addr:postcode": "361000",
+        "addr:street": "官任路",
+        "amenity": "bar",
+        "name:en": "The Londoner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0807777,
+          24.4783592
+        ]
+      },
+      "id": "node/4750191721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774555911",
+        "addr:housenumber": "28",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "old_name": "潮福城",
+        "old_name:en": "Lucky Full Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0784486,
+          24.4802929
+        ]
+      },
+      "id": "node/4774555911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4775949268",
+        "addr:housenumber": "26",
+        "addr:street": "凌香里",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegetarian": "yes",
+        "name": "草根堂私房菜 Cao Gen Tang",
+        "name:en": "Grassroots"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1243544,
+          24.4893126
+        ]
+      },
+      "id": "node/4775949268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776223636",
+        "addr:city": "Xiamen",
+        "addr:postcode": "361000",
+        "addr:street": "华新路",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "良筑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0829785,
+          24.4621391
+        ]
+      },
+      "id": "node/4776223636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778004521",
+        "addr:housenumber": "32",
+        "addr:street": "华新路 Huaxin Road",
+        "amenity": "cafe",
+        "name:en": "32/HOW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0827726,
+          24.4626634
+        ]
+      },
+      "id": "node/4778004521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780427276",
+        "amenity": "cafe",
+        "name": "沁园咖啡厅",
+        "name:en": "Garden Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0875635,
+          24.4589046
+        ]
+      },
+      "id": "node/4780427276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4787601823",
+        "amenity": "cafe",
+        "name:en": "Guo Lu Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.094582,
+          24.5164141
+        ]
+      },
+      "id": "node/4787601823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4828111621",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0763024,
+          24.4794407
+        ]
+      },
+      "id": "node/4828111621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4904416766",
+        "amenity": "restaurant",
+        "name": "彼莱德花园西餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.186206,
+          24.4788509
+        ]
+      },
+      "id": "node/4904416766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4904422010",
+        "amenity": "restaurant",
+        "name": "72串烧烤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1862581,
+          24.4787986
+        ]
+      },
+      "id": "node/4904422010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928415010",
+        "amenity": "cafe",
+        "name": "LA VIE Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1169033,
+          24.4876449
+        ]
+      },
+      "id": "node/4928415010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928459920",
+        "amenity": "restaurant",
+        "name": "马尔龙新疆饭庄"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1166387,
+          24.4882879
+        ]
+      },
+      "id": "node/4928459920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5222057807",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0806627,
+          24.4783426
+        ]
+      },
+      "id": "node/5222057807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5224209381",
+        "amenity": "cafe",
+        "cuisine": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1186646,
+          24.5014066
+        ]
+      },
+      "id": "node/5224209381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5240467821",
+        "addr:housenumber": "5-7",
+        "addr:street": "海后路",
+        "amenity": "restaurant",
+        "cuisine": "asian;chinese",
+        "name": "中燃海鲜酒家",
+        "name:en": "Zhongran Seafood Restaurant",
+        "name:zh": "中燃海鲜酒家",
+        "name:zh-Hans": "中燃海鲜酒家",
+        "name:zh-Hant": "中燃海鮮酒家",
+        "phone": "+86 592 203 8502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0698555,
+          24.456489
+        ]
+      },
+      "id": "node/5240467821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5275085628",
+        "addr:housenumber": "22;20",
+        "addr:street": "中山路 Zhongshan Road",
+        "amenity": "restaurant",
+        "description": "Peanut soup",
+        "description:fr": "Spécialité de soupe d'arachide : huasheng tang",
+        "name": "黄则和花生汤",
+        "name:en": "Huang Zehe Peanut Soup Restaurant",
+        "opening_hours": "Mo-Su 06:30-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0710863,
+          24.4559945
+        ]
+      },
+      "id": "node/5275085628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5275088721",
+        "addr:housenumber": "8",
+        "addr:street": "局口街",
+        "amenity": "restaurant",
+        "name:en": "A Qin Chun Juan (Xiamen Spring Roll)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.075525,
+          24.4569019
+        ]
+      },
+      "id": "node/5275088721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498280521",
+        "amenity": "cafe",
+        "name:en": "Thank You Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0858268,
+          24.4390707
+        ]
+      },
+      "id": "node/5498280521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5623322625",
+        "amenity": "bar",
+        "name:en": "Beer Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0744231,
+          24.4605818
+        ]
+      },
+      "id": "node/5623322625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5740156822",
+        "amenity": "restaurant",
+        "name:en": "good noodle dishes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1046907,
+          24.4827012
+        ]
+      },
+      "id": "node/5740156822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5868527685",
+        "addr:housenumber": "4th floor",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Puti Vegetarian Restaurant;六意",
+        "name:de": "Puti Vegetarian Restaurant",
+        "name:en": "Puti Vegetarian Restaurant;Liuyi",
+        "name:es": "Puti Vegetarian Restaurant",
+        "name:fr": "Puti Vegetarian Restaurant",
+        "name:zh": "Puti Vegetarian Restaurant",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0794693,
+          24.4506064
+        ]
+      },
+      "id": "node/5868527685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5902983738",
+        "amenity": "restaurant",
+        "name": "东渡路榕树缘",
+        "name:zh": "东渡路榕树缘",
+        "name:zh-Hans": "东渡路榕树缘",
+        "name:zh-Hant": "東渡路榕樹緣"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0698323,
+          24.4852115
+        ]
+      },
+      "id": "node/5902983738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117892943",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1136364,
+          24.4754637
+        ]
+      },
+      "id": "node/6117892943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361869085",
+        "amenity": "restaurant",
+        "cuisine": "dumplings",
+        "name": "盘子与饺子",
+        "name:en": "Pans and Dumplings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0831402,
+          24.46383
+        ]
+      },
+      "id": "node/6361869085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6950101585",
+        "addr:housenumber": "15",
+        "addr:street": "Zhonghua Road",
+        "amenity": "cafe",
+        "cuisine": "western",
+        "description": "Coffee, tea and western food",
+        "name": "褚家园咖啡馆",
+        "name:en": "The Chu Family Coffee",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+86 592 206 3651",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0648029,
+          24.4454514
+        ]
+      },
+      "id": "node/6950101585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093821945",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0769121,
+          24.4556044
+        ]
+      },
+      "id": "node/8093821945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8273731502",
+        "amenity": "restaurant",
+        "name": "羔羊地带羊肉串"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1624046,
+          24.4932643
+        ]
+      },
+      "id": "node/8273731502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8353625619",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "description": "Creative Seafood restaurant",
+        "source": "Notes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0665171,
+          24.4445345
+        ]
+      },
+      "id": "node/8353625619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383717316",
+        "amenity": "bar",
+        "name": "屿·往事酒吧"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0594196,
+          24.4513276
+        ]
+      },
+      "id": "node/8383717316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383725811",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0591763,
+          24.4512557
+        ]
+      },
+      "id": "node/8383725811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383725812",
+        "amenity": "restaurant",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0641433,
+          24.4477523
+        ]
+      },
+      "id": "node/8383725812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383725813",
+        "addr:housenumber": "21",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0638474,
+          24.4486598
+        ]
+      },
+      "id": "node/8383725813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383735910",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0641467,
+          24.4481815
+        ]
+      },
+      "id": "node/8383735910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383767127",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0641944,
+          24.448663
+        ]
+      },
+      "id": "node/8383767127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383768219",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0590747,
+          24.4510299
+        ]
+      },
+      "id": "node/8383768219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383769129",
+        "amenity": "bar",
+        "name": "留声机民谣酒吧"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0584731,
+          24.4508124
+        ]
+      },
+      "id": "node/8383769129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383769446",
+        "amenity": "cafe",
+        "name:en": "Greentrain Tea & Puff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0631988,
+          24.4472482
+        ]
+      },
+      "id": "node/8383769446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383773196",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0594985,
+          24.4513543
+        ]
+      },
+      "id": "node/8383773196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383774305",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.062735,
+          24.4474941
+        ]
+      },
+      "id": "node/8383774305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383774807",
+        "amenity": "cafe",
+        "name": "Cantata",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0617167,
+          24.4459208
+        ]
+      },
+      "id": "node/8383774807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383774863",
+        "addr:housenumber": "25",
+        "addr:street": "Guxin Road",
+        "amenity": "cafe",
+        "name": "Citiark",
+        "name:en": "Citiark Coffee and Cake",
+        "opening_hours": "Mo-Su 08:30-19:30",
+        "phone": "+86 592 592 4569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0637642,
+          24.4488695
+        ]
+      },
+      "id": "node/8383774863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383774864",
+        "amenity": "restaurant",
+        "cuisine": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0583385,
+          24.4491772
+        ]
+      },
+      "id": "node/8383774864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383776113",
+        "amenity": "cafe",
+        "name": "Na's Intimate Cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0627127,
+          24.4476377
+        ]
+      },
+      "id": "node/8383776113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383780334",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0589938,
+          24.4486714
+        ]
+      },
+      "id": "node/8383780334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383781129",
+        "addr:city": "厦门市",
+        "addr:district": "思明区",
+        "addr:housenumber": "95",
+        "addr:province": "福建省",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Laohai Wu",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0635131,
+          24.4471782
+        ]
+      },
+      "id": "node/8383781129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383781220",
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0643897,
+          24.4485047
+        ]
+      },
+      "id": "node/8383781220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383781620",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "description": "Steamed seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0588105,
+          24.4489349
+        ]
+      },
+      "id": "node/8383781620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386383114",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0615202,
+          24.4447429
+        ]
+      },
+      "id": "node/8386383114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386397244",
+        "addr:housenumber": "164;166;168",
+        "addr:street": "龙头路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks Coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+86 592 206 0158",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.066594,
+          24.4470978
+        ]
+      },
+      "id": "node/8386397244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386398979",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Pansun Coffee",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0648928,
+          24.4457043
+        ]
+      },
+      "id": "node/8386398979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386408606",
+        "addr:city": "厦门市",
+        "addr:district": "思明区",
+        "addr:housenumber": "34",
+        "addr:province": "福建省",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0645352,
+          24.4469674
+        ]
+      },
+      "id": "node/8386408606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386408608",
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0687099,
+          24.4478377
+        ]
+      },
+      "id": "node/8386408608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386416509",
+        "amenity": "cafe",
+        "name": "C•D Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0677982,
+          24.4481901
+        ]
+      },
+      "id": "node/8386416509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386429448",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0676531,
+          24.4475572
+        ]
+      },
+      "id": "node/8386429448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386430926",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0597347,
+          24.448574
+        ]
+      },
+      "id": "node/8386430926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386847676",
+        "amenity": "bar",
+        "name:en": "Mr. Right"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0589094,
+          24.4510463
+        ]
+      },
+      "id": "node/8386847676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386852179",
+        "amenity": "bar",
+        "name": "Cocktail Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0582293,
+          24.4497654
+        ]
+      },
+      "id": "node/8386852179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386858543",
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0603739,
+          24.4419224
+        ]
+      },
+      "id": "node/8386858543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386867063",
+        "amenity": "cafe",
+        "description": "Rooftop outdoor seating",
+        "name": "I Know U Know",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.059108,
+          24.4422752
+        ]
+      },
+      "id": "node/8386867063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389902205",
+        "amenity": "cafe",
+        "name": "Mr. Sea Monster Cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0678122,
+          24.4450319
+        ]
+      },
+      "id": "node/8389902205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389914409",
+        "amenity": "restaurant",
+        "name": "一席水产",
+        "name:en": "Yi Xi Shui Chan",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0654479,
+          24.4500276
+        ]
+      },
+      "id": "node/8389914409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389925458",
+        "amenity": "cafe",
+        "name": "River's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0626888,
+          24.4522119
+        ]
+      },
+      "id": "node/8389925458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389935666",
+        "amenity": "restaurant",
+        "name:en": "Lin's Tea Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0658666,
+          24.4473305
+        ]
+      },
+      "id": "node/8389935666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389938373",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0655824,
+          24.4476249
+        ]
+      },
+      "id": "node/8389938373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389948638",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0618391,
+          24.4521515
+        ]
+      },
+      "id": "node/8389948638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8398764377",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "level": "1",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1424556,
+          24.5470707
+        ]
+      },
+      "id": "node/8398764377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410725044",
+        "addr:city": "厦门市",
+        "addr:district": "湖里区",
+        "addr:province": "福建省",
+        "addr:street": "环岛东路2486、2488号砂之船奥特莱斯旅游博览中心裙楼地上一层的XM1-B-27单元",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克厦门砂之船奥莱分店",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克厦门砂之船奥莱分店",
+        "opening_hours": "08:00-22:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1870343,
+          24.5320421
+        ]
+      },
+      "id": "node/8410725044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8532192318",
+        "addr:housenumber": "92",
+        "addr:street": "大中路",
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "phone": "+86 158 5928 7467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0718615,
+          24.457776
+        ]
+      },
+      "id": "node/8532192318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8532813317",
+        "addr:housenumber": "2-116",
+        "addr:street": "禾祥西路",
+        "amenity": "cafe",
+        "name": "21 Gram Coffee",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "phone": "+86 133 2879 2721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0747528,
+          24.465731
+        ]
+      },
+      "id": "node/8532813317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8532831819",
+        "addr:housenumber": "4 A144",
+        "addr:street": "Wenchuangyuan",
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "phone": "+86 173 5944 9669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.102651,
+          24.4668731
+        ]
+      },
+      "id": "node/8532831819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8533027117",
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.156217,
+          24.5174411
+        ]
+      },
+      "id": "node/8533027117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8533088817",
+        "addr:housenumber": "2-4",
+        "addr:street": "官任路",
+        "amenity": "cafe",
+        "name:en": "Delta Coffee",
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "phone": "+86 199 0604 5047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0800305,
+          24.4783001
+        ]
+      },
+      "id": "node/8533088817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8534739917",
+        "amenity": "cafe",
+        "name:en": "Give Coffee",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+86 181 0609 3395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1084969,
+          24.492379
+        ]
+      },
+      "id": "node/8534739917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8534812817",
+        "addr:housenumber": "2",
+        "addr:street": "升平路",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name:en": "Saigon Saigon",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+86 592 202 6128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0714696,
+          24.4576864
+        ]
+      },
+      "id": "node/8534812817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8534831417",
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:wikipedia": "zh:瑞幸咖啡",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name": "瑞幸咖啡",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0753398,
+          24.4518682
+        ]
+      },
+      "id": "node/8534831417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8535928717",
+        "amenity": "cafe",
+        "name:en": "Ling Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0819763,
+          24.4416532
+        ]
+      },
+      "id": "node/8535928717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536586217",
+        "amenity": "cafe",
+        "name:en": "Ti Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0882122,
+          24.4431433
+        ]
+      },
+      "id": "node/8536586217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536586317",
+        "amenity": "cafe",
+        "name:en": "Fenmind Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0881195,
+          24.442649
+        ]
+      },
+      "id": "node/8536586317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536589817",
+        "addr:housenumber": "13",
+        "addr:street": "Nanhua Road",
+        "amenity": "cafe",
+        "name:en": "Bata Bata Patisserie and Cafe",
+        "opening_hours": "Mo-Su 13:00-20:00",
+        "phone": "+86 592 251 1602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0881576,
+          24.4436105
+        ]
+      },
+      "id": "node/8536589817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8537009717",
+        "amenity": "restaurant",
+        "name:en": "Jalamo Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.086122,
+          24.4401055
+        ]
+      },
+      "id": "node/8537009717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8537075117",
+        "amenity": "bar",
+        "name:en": "1970 Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0864873,
+          24.4427022
+        ]
+      },
+      "id": "node/8537075117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8537147018",
+        "addr:housenumber": "182",
+        "addr:street": "演武路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:30",
+        "phone": "+86 592 208 7611",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.083789,
+          24.4385629
+        ]
+      },
+      "id": "node/8537147018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8539597917",
+        "addr:housenumber": "485",
+        "addr:street": "思明南路",
+        "amenity": "cafe",
+        "name:en": "CT Cafe",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+86 180 5988 5931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0832809,
+          24.4463027
+        ]
+      },
+      "id": "node/8539597917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8539679117",
+        "amenity": "cafe",
+        "name:en": "Take-away Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0846803,
+          24.4443628
+        ]
+      },
+      "id": "node/8539679117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8539690717",
+        "amenity": "cafe",
+        "name:en": "Tuscany Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0822485,
+          24.4427542
+        ]
+      },
+      "id": "node/8539690717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8539724318",
+        "amenity": "cafe",
+        "name:en": "La Poste Café",
+        "opening_hours": "Mo-Su 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0821877,
+          24.4430423
+        ]
+      },
+      "id": "node/8539724318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8539734617",
+        "amenity": "restaurant",
+        "name:en": "Houcaller Steak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0879943,
+          24.4396727
+        ]
+      },
+      "id": "node/8539734617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8540204817",
+        "amenity": "cafe",
+        "name:en": "only one Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016673,
+          24.4304447
+        ]
+      },
+      "id": "node/8540204817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8540499817",
+        "amenity": "cafe",
+        "name:en": "Boom Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.087361,
+          24.4431282
+        ]
+      },
+      "id": "node/8540499817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8541401517",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop;italian_pizza;pizza",
+        "name:en": "Paradiso Pizza Bread Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0842944,
+          24.4394727
+        ]
+      },
+      "id": "node/8541401517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8541410017",
+        "amenity": "restaurant",
+        "cuisine": "american;international;mexican",
+        "name:en": "La Casa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.085611,
+          24.440121
+        ]
+      },
+      "id": "node/8541410017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542978317",
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name": "瑞幸咖啡",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0780992,
+          24.4537347
+        ]
+      },
+      "id": "node/8542978317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542978318",
+        "amenity": "cafe",
+        "name": "Tox Coffee第肆咖啡",
+        "name:en": "Tox Coffee",
+        "name:zh": "第肆咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0742993,
+          24.4653826
+        ]
+      },
+      "id": "node/8542978318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542978319",
+        "amenity": "cafe",
+        "name:en": "Starbucks Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0854492,
+          24.4709648
+        ]
+      },
+      "id": "node/8542978319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542978417",
+        "amenity": "cafe",
+        "name:en": "Harbor Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0771944,
+          24.4533604
+        ]
+      },
+      "id": "node/8542978417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542988617",
+        "amenity": "cafe",
+        "name:en": "Cake la Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0769642,
+          24.4686544
+        ]
+      },
+      "id": "node/8542988617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542995817",
+        "amenity": "restaurant",
+        "name:en": "Kebab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1003935,
+          24.4747211
+        ]
+      },
+      "id": "node/8542995817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8543400717",
+        "amenity": "cafe",
+        "name:en": "Deck coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1082032,
+          24.4948921
+        ]
+      },
+      "id": "node/8543400717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8543430617",
+        "amenity": "cafe",
+        "name:en": "bends Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0800744,
+          24.4810148
+        ]
+      },
+      "id": "node/8543430617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8543450617",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0702978,
+          24.4842258
+        ]
+      },
+      "id": "node/8543450617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8543933817",
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name": "瑞幸咖啡",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0671429,
+          24.4479283
+        ]
+      },
+      "id": "node/8543933817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8544163518",
+        "amenity": "bar",
+        "name:en": "Yeah Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.062773,
+          24.4477357
+        ]
+      },
+      "id": "node/8544163518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8544460918",
+        "addr:housenumber": "32",
+        "addr:street": "Sinming Road",
+        "amenity": "cafe",
+        "name:en": "Heshi River’s Cafe",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+86 137 9974 7040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0625525,
+          24.4522665
+        ]
+      },
+      "id": "node/8544460918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8544529317",
+        "addr:housenumber": "31",
+        "addr:street": "Guxin Road",
+        "amenity": "cafe",
+        "name:en": "Yili Coffee",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+86 133 0603 5780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0632818,
+          24.4496956
+        ]
+      },
+      "id": "node/8544529317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8547988317",
+        "addr:housenumber": "183",
+        "addr:street": "Longtou Road",
+        "amenity": "restaurant",
+        "name:de": "Longtou Haifischbällchen",
+        "name:en": "Longtou Shark Meetballs",
+        "opening_hours": "Mo-Su 08:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.06526,
+          24.4476368
+        ]
+      },
+      "id": "node/8547988317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548675417",
+        "addr:housenumber": "29",
+        "addr:street": "Fujian Road",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop;noodles;pasta;steak_house",
+        "name:en": "Mr. Seamonster Cafe",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "phone": "+86 592 206 2052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0678315,
+          24.4450498
+        ]
+      },
+      "id": "node/8548675417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8549212817",
+        "addr:housenumber": "13",
+        "addr:street": "Fuxing Road",
+        "amenity": "cafe",
+        "name:en": "Caomu Shijing Cafe and Bar",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+86 139 0600 9061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0692574,
+          24.445621
+        ]
+      },
+      "id": "node/8549212817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8552560217",
+        "amenity": "restaurant",
+        "name:en": "Lim Suhi Minnan Cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0659885,
+          24.4476405
+        ]
+      },
+      "id": "node/8552560217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8559272117",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0716952,
+          24.4543447
+        ]
+      },
+      "id": "node/8559272117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8559842919",
+        "amenity": "cafe",
+        "brand": "太平洋咖啡",
+        "brand:en": "Pacific Coffee",
+        "brand:wikidata": "Q7122398",
+        "brand:wikipedia": "en:Pacific Coffee",
+        "brand:zh": "太平洋咖啡",
+        "cuisine": "coffee_shop",
+        "name": "太平洋咖啡",
+        "name:en": "Pacific Coffee",
+        "name:zh": "太平洋咖啡",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0773305,
+          24.4467081
+        ]
+      },
+      "id": "node/8559842919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8559858917",
+        "amenity": "bar",
+        "name:en": "Reme Roof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0722619,
+          24.4528739
+        ]
+      },
+      "id": "node/8559858917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8560493517",
+        "addr:housenumber": "76-132",
+        "addr:street": "中山路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+86 592 205 2156",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0736343,
+          24.456359
+        ]
+      },
+      "id": "node/8560493517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8560588519",
+        "amenity": "cafe",
+        "name:en": "old theatre and Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0741144,
+          24.4578472
+        ]
+      },
+      "id": "node/8560588519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8563465219",
+        "amenity": "restaurant",
+        "name:en": "fine dining and bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0705694,
+          24.4665277
+        ]
+      },
+      "id": "node/8563465219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8563465718",
+        "amenity": "cafe",
+        "name:en": "La Vie Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0760152,
+          24.4911796
+        ]
+      },
+      "id": "node/8563465718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695596517",
+        "addr:street": "厦禾路",
+        "amenity": "restaurant",
+        "name": "临家闽南菜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.113052,
+          24.4746663
+        ]
+      },
+      "id": "node/8695596517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8769061240",
+        "addr:housenumber": "551号",
+        "addr:street": "厦门市思明区环岛南路",
+        "amenity": "restaurant",
+        "description": "梵尔纳海洋文化主题餐厅",
+        "name": "梵尔纳餐厅",
+        "phone": "+86 592 662 0999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.157571,
+          24.4477152
+        ]
+      },
+      "id": "node/8769061240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8769061241",
+        "amenity": "restaurant",
+        "description": "Z&D Cuisine",
+        "name": "左稻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1862508,
+          24.4761013
+        ]
+      },
+      "id": "node/8769061241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8769067275",
+        "amenity": "restaurant",
+        "name": "江南古镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0810805,
+          24.4681367
+        ]
+      },
+      "id": "node/8769067275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8775635966",
+        "amenity": "restaurant",
+        "name": "黄家花园餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0648102,
+          24.4434264
+        ]
+      },
+      "id": "node/8775635966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778275071",
+        "amenity": "restaurant",
+        "name": "202特色排档"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1244427,
+          24.4895774
+        ]
+      },
+      "id": "node/8778275071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778335348",
+        "amenity": "restaurant",
+        "name": "亲爱的麻辣烫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1160127,
+          24.4806798
+        ]
+      },
+      "id": "node/8778335348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778353760",
+        "amenity": "restaurant",
+        "name": "土龙庄莲花煎蟹"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.12419,
+          24.4891705
+        ]
+      },
+      "id": "node/8778353760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778357605",
+        "amenity": "restaurant",
+        "name": "客宴"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1208489,
+          24.4889166
+        ]
+      },
+      "id": "node/8778357605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778361570",
+        "amenity": "cafe",
+        "name": "里昂家"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.123225,
+          24.4890935
+        ]
+      },
+      "id": "node/8778361570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8778372036",
+        "amenity": "restaurant",
+        "name": "厨嫂当家"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1206575,
+          24.4887587
+        ]
+      },
+      "id": "node/8778372036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521285342",
+        "amenity": "cafe",
+        "name": "中国邮政咖啡",
+        "name:en": "Cost Coffee",
+        "name:zh": "中国邮政咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1136093,
+          24.478336
+        ]
+      },
+      "id": "node/9521285342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550881177",
+        "amenity": "restaurant",
+        "name": "遇见生蚝馆万象城店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1044891,
+          24.4740871
+        ]
+      },
+      "id": "node/9550881177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550881178",
+        "amenity": "restaurant",
+        "name": "满堂红"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1045053,
+          24.4740387
+        ]
+      },
+      "id": "node/9550881178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550881179",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "西北拉面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1045191,
+          24.4739868
+        ]
+      },
+      "id": "node/9550881179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551011472",
+        "amenity": "bar",
+        "name": "Olivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.104648,
+          24.4736183
+        ]
+      },
+      "id": "node/9551011472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551011473",
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1046588,
+          24.4735922
+        ]
+      },
+      "id": "node/9551011473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551011474",
+        "amenity": "restaurant",
+        "name": "老梁烧烤万象城店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1046668,
+          24.4735616
+        ]
+      },
+      "id": "node/9551011474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551011479",
+        "amenity": "restaurant",
+        "name": "豪享汤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1043852,
+          24.4733596
+        ]
+      },
+      "id": "node/9551011479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551417620",
+        "amenity": "restaurant",
+        "name": "苏氏炖品馆禾祥东店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1034734,
+          24.4731003
+        ]
+      },
+      "id": "node/9551417620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551417621",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "亚强沙茶面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1034367,
+          24.4730936
+        ]
+      },
+      "id": "node/9551417621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551417632",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "舌尖上的牛肉面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1033115,
+          24.4731675
+        ]
+      },
+      "id": "node/9551417632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553502720",
+        "amenity": "restaurant",
+        "name": "阿忠食坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1043402,
+          24.4745313
+        ]
+      },
+      "id": "node/9553502720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553502723",
+        "amenity": "restaurant",
+        "name": "小薛烧烤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1042597,
+          24.4747745
+        ]
+      },
+      "id": "node/9553502723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553502724",
+        "amenity": "restaurant",
+        "name": "秘制猪脚饭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1042428,
+          24.4748215
+        ]
+      },
+      "id": "node/9553502724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553517754",
+        "amenity": "restaurant",
+        "name": "沙县小吃"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1034066,
+          24.4757976
+        ]
+      },
+      "id": "node/9553517754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553517755",
+        "amenity": "restaurant",
+        "name": "厦门薄饼驴肉汤店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1033603,
+          24.4757842
+        ]
+      },
+      "id": "node/9553517755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553517762",
+        "amenity": "restaurant",
+        "name": "石磨肠粉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1025281,
+          24.475549
+        ]
+      },
+      "id": "node/9553517762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559501851",
+        "amenity": "cafe",
+        "brand": "喜茶",
+        "brand:en": "Heytea",
+        "brand:wikidata": "Q60875376",
+        "brand:wikipedia": "zh:喜茶",
+        "brand:zh": "喜茶",
+        "cuisine": "bubble_tea",
+        "name": "喜茶",
+        "name:en": "Heytea",
+        "name:zh": "喜茶",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1056578,
+          24.4738756
+        ]
+      },
+      "id": "node/9559501851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559795578",
+        "amenity": "cafe",
+        "brand": "太平洋咖啡",
+        "brand:en": "Pacific Coffee",
+        "brand:wikidata": "Q7122398",
+        "brand:wikipedia": "en:Pacific Coffee",
+        "brand:zh": "太平洋咖啡",
+        "cuisine": "coffee_shop",
+        "name": "太平洋咖啡",
+        "name:en": "Pacific Coffee",
+        "name:zh": "太平洋咖啡",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1066779,
+          24.4741234
+        ]
+      },
+      "id": "node/9559795578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559795598",
+        "amenity": "cafe",
+        "brand": "奈雪的茶",
+        "brand:en": "Nayuki",
+        "brand:wikidata": "Q107351710",
+        "brand:wikipedia": "zh:奈雪的茶",
+        "brand:zh": "奈雪的茶",
+        "cuisine": "bubble_tea",
+        "name": "奈雪的茶",
+        "name:en": "Nayuki",
+        "name:zh": "奈雪的茶",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1056281,
+          24.475152
+        ]
+      },
+      "id": "node/9559795598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559925856",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "1點點"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1052589,
+          24.4730041
+        ]
+      },
+      "id": "node/9559925856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561883576",
+        "amenity": "cafe",
+        "name": "老塞行动咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1054798,
+          24.4724328
+        ]
+      },
+      "id": "node/9561883576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561883577",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "牧田"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1055682,
+          24.4724539
+        ]
+      },
+      "id": "node/9561883577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561883578",
+        "amenity": "restaurant",
+        "name": "蚝馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1056078,
+          24.4724636
+        ]
+      },
+      "id": "node/9561883578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561883589",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "海鲜加工坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1057865,
+          24.4725139
+        ]
+      },
+      "id": "node/9561883589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561883606",
+        "amenity": "restaurant",
+        "name": "蒙古烤羊腿"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1065571,
+          24.4727137
+        ]
+      },
+      "id": "node/9561883606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561886823",
+        "amenity": "restaurant",
+        "name": "阿发福扁食"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1063952,
+          24.4734326
+        ]
+      },
+      "id": "node/9561886823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9561901875",
+        "amenity": "restaurant",
+        "name": "柳州螺蛳粉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1059568,
+          24.4734589
+        ]
+      },
+      "id": "node/9561901875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9565441058",
+        "amenity": "bar",
+        "name": "欧贝Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1049776,
+          24.4761537
+        ]
+      },
+      "id": "node/9565441058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9565441079",
+        "amenity": "bar",
+        "name": "夜将阑居酒屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1050494,
+          24.4760283
+        ]
+      },
+      "id": "node/9565441079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567789180",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "郭晶晶沙茶面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1047214,
+          24.4731017
+        ]
+      },
+      "id": "node/9567789180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567789182",
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1045354,
+          24.4730556
+        ]
+      },
+      "id": "node/9567789182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567789186",
+        "amenity": "restaurant",
+        "name": "502花生汤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1042319,
+          24.472724
+        ]
+      },
+      "id": "node/9567789186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567789189",
+        "amenity": "restaurant",
+        "name": "浮白"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1047861,
+          24.4727392
+        ]
+      },
+      "id": "node/9567789189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199959",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "OK拉面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1033216,
+          24.4727359
+        ]
+      },
+      "id": "node/9577199959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199965",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "李面有料禾祥东店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1028996,
+          24.4725574
+        ]
+      },
+      "id": "node/9577199965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199966",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1029567,
+          24.472334
+        ]
+      },
+      "id": "node/9577199966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199967",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.102948,
+          24.4723657
+        ]
+      },
+      "id": "node/9577199967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199976",
+        "amenity": "bar",
+        "name": "周周来约酒"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1036692,
+          24.4725079
+        ]
+      },
+      "id": "node/9577199976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199984",
+        "amenity": "restaurant",
+        "name": "吹牛王川菜楼火锅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.104034,
+          24.4726867
+        ]
+      },
+      "id": "node/9577199984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9577199985",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1039793,
+          24.472876
+        ]
+      },
+      "id": "node/9577199985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994119",
+        "amenity": "restaurant",
+        "name": "津丰源包子禾祥店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016727,
+          24.4726742
+        ]
+      },
+      "id": "node/9696994119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994121",
+        "amenity": "restaurant",
+        "name": "正宗漳州四果汤禾祥东店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016469,
+          24.4727399
+        ]
+      },
+      "id": "node/9696994121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994122",
+        "amenity": "restaurant",
+        "name": "十三香小龙虾"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016374,
+          24.4727765
+        ]
+      },
+      "id": "node/9696994122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994123",
+        "amenity": "restaurant",
+        "name": "洪全周洪濑鸡爪"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016259,
+          24.4728135
+        ]
+      },
+      "id": "node/9696994123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994130",
+        "amenity": "restaurant",
+        "name": "沙县小吃"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016014,
+          24.4732109
+        ]
+      },
+      "id": "node/9696994130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994131",
+        "amenity": "restaurant",
+        "name": "煲仔饭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1016516,
+          24.4732258
+        ]
+      },
+      "id": "node/9696994131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994132",
+        "amenity": "restaurant",
+        "name": "吴记酱面福鼎肉片"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1017053,
+          24.4732396
+        ]
+      },
+      "id": "node/9696994132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994133",
+        "amenity": "restaurant",
+        "name": "雅米小厨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.101801,
+          24.4732619
+        ]
+      },
+      "id": "node/9696994133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994209",
+        "amenity": "restaurant",
+        "name": "真品酱大骨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1015155,
+          24.4734292
+        ]
+      },
+      "id": "node/9696994209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696994212",
+        "amenity": "restaurant",
+        "name": "本港烧酒配"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1017164,
+          24.4734783
+        ]
+      },
+      "id": "node/9696994212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728670282",
+        "amenity": "restaurant",
+        "branch": "后埭溪店",
+        "diet:halal": "yes",
+        "name": "震亚牛肉面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1012294,
+          24.4741139
+        ]
+      },
+      "id": "node/9728670282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728670283",
+        "amenity": "restaurant",
+        "name": "食得香粉佳饭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1012461,
+          24.4740684
+        ]
+      },
+      "id": "node/9728670283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728670284",
+        "amenity": "restaurant",
+        "name": "私房酱大骨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1012647,
+          24.4740106
+        ]
+      },
+      "id": "node/9728670284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728670289",
+        "amenity": "restaurant",
+        "name": "张三两"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1014125,
+          24.4735733
+        ]
+      },
+      "id": "node/9728670289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728670290",
+        "amenity": "restaurant",
+        "name": "御晟缘姜母鸭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.101424,
+          24.4735338
+        ]
+      },
+      "id": "node/9728670290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728790168",
+        "amenity": "restaurant",
+        "name": "如山牛肉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1047315,
+          24.4793102
+        ]
+      },
+      "id": "node/9728790168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728790169",
+        "amenity": "restaurant",
+        "name": "荣记深海鱼火锅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1046721,
+          24.4794679
+        ]
+      },
+      "id": "node/9728790169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10311154345",
+        "amenity": "cafe",
+        "branch": "东渡六中店",
+        "brand": "蜜雪冰城",
+        "brand:en": "MIXUEBINGCHENG",
+        "brand:wikidata": "Q107406476",
+        "brand:zh": "蜜雪冰城",
+        "cuisine": "ice_cream;bubble_tea",
+        "name": "蜜雪冰城",
+        "name:en": "MIXUEBINGCHENG",
+        "name:zh": "蜜雪冰城",
+        "operator": "厦门市湖里区茗淘蜜奶茶店",
+        "ref": "911638",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0825367,
+          24.4973558
+        ]
+      },
+      "id": "node/10311154345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10745313605",
+        "amenity": "restaurant",
+        "description": "老牌沙茶面馆，早上有面线糊",
+        "name": "沙茶林"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0973763,
+          24.4629172
+        ]
+      },
+      "id": "node/10745313605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10745313606",
+        "amenity": "restaurant",
+        "name": "万寿臭豆腐和"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0973094,
+          24.4630855
+        ]
+      },
+      "id": "node/10745313606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10745313607",
+        "amenity": "restaurant",
+        "name": "凉皮小铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0973704,
+          24.4630855
+        ]
+      },
+      "id": "node/10745313607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10892411905",
+        "amenity": "cafe",
+        "name": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1363135,
+          24.4640179
+        ]
+      },
+      "id": "node/10892411905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11423288109",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0750492,
+          24.4833077
+        ]
+      },
+      "id": "node/11423288109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11423294074",
+        "amenity": "cafe",
+        "name": "落日咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1270618,
+          24.4412216
+        ]
+      },
+      "id": "node/11423294074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11423294159",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1296563,
+          24.4481163
+        ]
+      },
+      "id": "node/11423294159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11423294163",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1316841,
+          24.4504117
+        ]
+      },
+      "id": "node/11423294163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11423294207",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1383306,
+          24.4616331
+        ]
+      },
+      "id": "node/11423294207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11559674573",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "大德记二分之一咖啡",
+        "opening_hours": "Mo-Su 09:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0699501,
+          24.4429913
+        ]
+      },
+      "id": "node/11559674573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11559675087",
+        "amenity": "restaurant",
+        "name": "阿香春卷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0685088,
+          24.4448783
+        ]
+      },
+      "id": "node/11559675087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11559675093",
+        "amenity": "restaurant",
+        "name": "挑食·本地菜·现煮小厨(鼓浪屿店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0683156,
+          24.444822
+        ]
+      },
+      "id": "node/11559675093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11559675107",
+        "amenity": "restaurant",
+        "name": "海怪先生西餐厅(鼓浪屿店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0678123,
+          24.4449625
+        ]
+      },
+      "id": "node/11559675107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561560467",
+        "amenity": "restaurant",
+        "name": "阿芳卤面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0663212,
+          24.446556
+        ]
+      },
+      "id": "node/11561560467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561560468",
+        "amenity": "restaurant",
+        "name": "鑫旺旺蟹黄汤包"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0663027,
+          24.4463824
+        ]
+      },
+      "id": "node/11561560468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604469",
+        "amenity": "restaurant",
+        "name": "厦门林氏鱼丸(鼓浪屿店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0665014,
+          24.4463326
+        ]
+      },
+      "id": "node/11561604469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604476",
+        "amenity": "restaurant",
+        "name": "赶海人家(鼓浪屿店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0663864,
+          24.4460337
+        ]
+      },
+      "id": "node/11561604476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604491",
+        "amenity": "restaurant",
+        "name": "外婆家小厨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0655934,
+          24.4451161
+        ]
+      },
+      "id": "node/11561604491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604493",
+        "amenity": "restaurant",
+        "name": "新四海·京菓鱼货发行(李家庄店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0657637,
+          24.4447798
+        ]
+      },
+      "id": "node/11561604493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604497",
+        "amenity": "restaurant",
+        "name": "李家茶肆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0662575,
+          24.4447066
+        ]
+      },
+      "id": "node/11561604497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604633",
+        "amenity": "restaurant",
+        "name": "六悦花园中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0615764,
+          24.4435193
+        ]
+      },
+      "id": "node/11561604633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604634",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "石船顶咖啡屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0616762,
+          24.4436717
+        ]
+      },
+      "id": "node/11561604634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604769",
+        "amenity": "restaurant",
+        "name": "美华水果店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0587567,
+          24.443867
+        ]
+      },
+      "id": "node/11561604769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11561604779",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "章鱼叔八味面馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0586828,
+          24.4442092
+        ]
+      },
+      "id": "node/11561604779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568547906",
+        "amenity": "restaurant",
+        "name": "十四茶"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0575208,
+          24.4486856
+        ]
+      },
+      "id": "node/11568547906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568548012",
+        "amenity": "restaurant",
+        "name": "花园餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0575165,
+          24.4497558
+        ]
+      },
+      "id": "node/11568548012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568548014",
+        "amenity": "restaurant",
+        "name": "六号私房菜·十年传承福建菜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0579509,
+          24.4496739
+        ]
+      },
+      "id": "node/11568548014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568548103",
+        "amenity": "restaurant",
+        "name": "曾家园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0588805,
+          24.4510475
+        ]
+      },
+      "id": "node/11568548103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568548109",
+        "amenity": "restaurant",
+        "name": "花园餐厅(内厝澳店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0592046,
+          24.4512434
+        ]
+      },
+      "id": "node/11568548109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568548128",
+        "amenity": "restaurant",
+        "name": "亚秀水产餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.059438,
+          24.4515902
+        ]
+      },
+      "id": "node/11568548128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568548132",
+        "amenity": "restaurant",
+        "name": "铂爵旅拍高档餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0598681,
+          24.4513975
+        ]
+      },
+      "id": "node/11568548132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605514",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "相屿·自由奶茶(鼓浪屿店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.057009,
+          24.4490803
+        ]
+      },
+      "id": "node/11568605514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605515",
+        "amenity": "restaurant",
+        "name": "时光餐吧"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0570454,
+          24.4489974
+        ]
+      },
+      "id": "node/11568605515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605517",
+        "amenity": "restaurant",
+        "name": "渔家小鲜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0577328,
+          24.4491383
+        ]
+      },
+      "id": "node/11568605517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605520",
+        "amenity": "restaurant",
+        "name": "亚尖大排档(鼓浪屿店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0622915,
+          24.452389
+        ]
+      },
+      "id": "node/11568605520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605530",
+        "amenity": "restaurant",
+        "name": "AMOY62号精品咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0626078,
+          24.4524751
+        ]
+      },
+      "id": "node/11568605530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605532",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0625699,
+          24.4528496
+        ]
+      },
+      "id": "node/11568605532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568605568",
+        "amenity": "restaurant",
+        "name": "小二郎海鲜餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0582391,
+          24.4492693
+        ]
+      },
+      "id": "node/11568605568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609870",
+        "amenity": "restaurant",
+        "name": "螺丝钉私房菜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0584579,
+          24.4491023
+        ]
+      },
+      "id": "node/11568609870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609872",
+        "amenity": "restaurant",
+        "name": "艺校后门沙茶面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0577659,
+          24.4486643
+        ]
+      },
+      "id": "node/11568609872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609889",
+        "amenity": "restaurant",
+        "name": "拾陌.moment别墅酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0584901,
+          24.4484328
+        ]
+      },
+      "id": "node/11568609889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609904",
+        "amenity": "restaurant",
+        "name": "李记沙茶面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0584831,
+          24.4507116
+        ]
+      },
+      "id": "node/11568609904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609908",
+        "amenity": "restaurant",
+        "name": "六年私厨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0588334,
+          24.4500008
+        ]
+      },
+      "id": "node/11568609908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609951",
+        "amenity": "restaurant",
+        "name": "阿木叔私房"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0588219,
+          24.4490391
+        ]
+      },
+      "id": "node/11568609951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609961",
+        "amenity": "restaurant",
+        "name": "闽味家私厨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0591128,
+          24.4487377
+        ]
+      },
+      "id": "node/11568609961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609962",
+        "amenity": "restaurant",
+        "name": "猴年马月花园餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0593501,
+          24.4484729
+        ]
+      },
+      "id": "node/11568609962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568609963",
+        "amenity": "restaurant",
+        "name": "澳联西饼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0595778,
+          24.4485007
+        ]
+      },
+      "id": "node/11568609963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568610013",
+        "amenity": "restaurant",
+        "name": "有间饭店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0596532,
+          24.4478897
+        ]
+      },
+      "id": "node/11568610013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568610036",
+        "amenity": "restaurant",
+        "name": "红猪餐厅·鼓浪屿华侨料理"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0598398,
+          24.4470292
+        ]
+      },
+      "id": "node/11568610036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568610059",
+        "amenity": "cafe",
+        "name": "喜林阁咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0607524,
+          24.4450868
+        ]
+      },
+      "id": "node/11568610059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664579",
+        "amenity": "cafe",
+        "brand": "书亦烧仙草",
+        "brand:en": "Shuyi Tealicious",
+        "brand:wikidata": "Q107729359",
+        "brand:zh": "书亦烧仙草",
+        "cuisine": "bubble_tea",
+        "name": "书亦烧仙草",
+        "name:en": "Shuyi Tealicious",
+        "name:zh": "书亦烧仙草",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0680379,
+          24.4474703
+        ]
+      },
+      "id": "node/11568664579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664581",
+        "amenity": "restaurant",
+        "name": "佟小曼手工茶饼坊(鼓浪屿1店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0684726,
+          24.4477852
+        ]
+      },
+      "id": "node/11568664581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664603",
+        "amenity": "restaurant",
+        "name": "喜祥美小吃店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0674867,
+          24.4471245
+        ]
+      },
+      "id": "node/11568664603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664604",
+        "amenity": "restaurant",
+        "name": "裕泰茶庄("
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0675366,
+          24.447082
+        ]
+      },
+      "id": "node/11568664604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664611",
+        "amenity": "cafe",
+        "name": "湾景旅馆·咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0679084,
+          24.4477897
+        ]
+      },
+      "id": "node/11568664611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664634",
+        "amenity": "restaurant",
+        "name": "凤姐餐饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0605517,
+          24.4461885
+        ]
+      },
+      "id": "node/11568664634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664648",
+        "amenity": "restaurant",
+        "name": "鼓浪·海鲜餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0597487,
+          24.4482413
+        ]
+      },
+      "id": "node/11568664648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664650",
+        "amenity": "restaurant",
+        "name": "树兰花下阁楼小厨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0597782,
+          24.4476736
+        ]
+      },
+      "id": "node/11568664650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568664676",
+        "amenity": "restaurant",
+        "name": "厦门市思明区余步园食杂店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0607492,
+          24.4475564
+        ]
+      },
+      "id": "node/11568664676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11602346804",
+        "amenity": "restaurant",
+        "name": "望海听风海景餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0659966,
+          24.4495469
+        ]
+      },
+      "id": "node/11602346804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11602346805",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0658964,
+          24.4496215
+        ]
+      },
+      "id": "node/11602346805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11627393188",
+        "addr:city": "厦门",
+        "addr:district": "思明区",
+        "addr:housenumber": "蜂巢山路6号104",
+        "addr:province": "福建",
+        "addr:street": "厦港",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "厝边沙茶面",
+        "phone": "+86 130 8317 6696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.084245,
+          24.4444509
+        ]
+      },
+      "id": "node/11627393188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11636806270",
+        "amenity": "cafe",
+        "name:en": "starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1050867,
+          24.5248545
+        ]
+      },
+      "id": "node/11636806270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11636806473",
+        "amenity": "restaurant",
+        "name:en": "korean reataurant Yukyung",
+        "name:ko": "유경 한국식당"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0766299,
+          24.4649733
+        ]
+      },
+      "id": "node/11636806473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11781140375",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0698448,
+          24.462747
+        ]
+      },
+      "id": "node/11781140375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11781163970",
+        "amenity": "restaurant",
+        "cuisine": "american;chinese",
+        "internet_access": "wlan",
+        "name:en": "Lan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1259541,
+          24.4270861
+        ]
+      },
+      "id": "node/11781163970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11781163971",
+        "amenity": "cafe",
+        "name:en": "Xiao shan chun xia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0879645,
+          24.4432065
+        ]
+      },
+      "id": "node/11781163971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11835362949",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "沙县小吃"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1524441,
+          24.4859313
+        ]
+      },
+      "id": "node/11835362949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11907691861",
+        "addr:housenumber": "126",
+        "addr:street": "厦禾路",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "开禾沙茶面",
+        "name:zh-Latn-pinyin": "Kaihe Shachamian",
+        "opening_hours": "24/7",
+        "phone": "059286666291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0700857,
+          24.4622856
+        ]
+      },
+      "id": "node/11907691861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11907723654",
+        "addr:housenumber": "3",
+        "addr:street": "Nanhua Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "大方素菜馆",
+        "name:en": "Da Fang Vegetarian Palace",
+        "phone": "05922093236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0878426,
+          24.4429149
+        ]
+      },
+      "id": "node/11907723654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11907731659",
+        "addr:housenumber": "54",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "鹭江宾馆观海厅",
+        "name:en": "Seaview Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0696136,
+          24.4561354
+        ]
+      },
+      "id": "node/11907731659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11936904069",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "宝香素食自助餐",
+        "name:en": "Bǎo Xiāng Vegetarian Buffet",
+        "opening_hours": "Mo-Su 11:00-14:00, 17:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1108245,
+          24.4776789
+        ]
+      },
+      "id": "node/11936904069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11938888469",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "清心玉素素食馆",
+        "name:en": "Qīngxīn Yùsù Vegetarian Restaurant",
+        "opening_hours": "Mo-Su 11:00-13:30, 17:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1252469,
+          24.4919052
+        ]
+      },
+      "id": "node/11938888469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11939551469",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "绿素林自助餐厅",
+        "name:en": "Lǜsùlín Buffet Restaurant",
+        "opening_hours": "Mo-Su 11:30-13:30, 17:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1177242,
+          24.4813032
+        ]
+      },
+      "id": "node/11939551469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945611061",
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1277921,
+          24.5318989
+        ]
+      },
+      "id": "node/11945611061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945611062",
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1275367,
+          24.5317678
+        ]
+      },
+      "id": "node/11945611062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214162807",
+        "amenity": "cafe",
+        "name": "不在书店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1475977,
+          24.438748
+        ]
+      },
+      "id": "node/12214162807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13070320672",
+        "addr:housenumber": "198號",
+        "addr:street": "东明路",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "天津风味火锅(槟榔店)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1072395,
+          24.4842922
+        ]
+      },
+      "id": "node/13070320672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13256000891",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.180479,
+          24.5322721
+        ]
+      },
+      "id": "node/13256000891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13379921001",
+        "amenity": "cafe",
+        "name": "luckin coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0955054,
+          24.4641553
+        ]
+      },
+      "id": "node/13379921001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380032901",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1030911,
+          24.4652884
+        ]
+      },
+      "id": "node/13380032901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380038101",
+        "amenity": "pub",
+        "name": "Two Girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1041853,
+          24.4653611
+        ]
+      },
+      "id": "node/13380038101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380539201",
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1299369,
+          24.4270421
+        ]
+      },
+      "id": "node/13380539201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380559101",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1264524,
+          24.4271085
+        ]
+      },
+      "id": "node/13380559101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13387645301",
+        "amenity": "cafe",
+        "name": "luckin coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0840163,
+          24.4389061
+        ]
+      },
+      "id": "node/13387645301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13387680001",
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name": "瑞幸咖啡",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0825845,
+          24.4423887
+        ]
+      },
+      "id": "node/13387680001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13388020601",
+        "amenity": "cafe",
+        "name:en": "Tao Yl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1040469,
+          24.4556516
+        ]
+      },
+      "id": "node/13388020601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13390029601",
+        "amenity": "cafe",
+        "name": "Basao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0895821,
+          24.4793245
+        ]
+      },
+      "id": "node/13390029601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13390047801",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0834513,
+          24.4742949
+        ]
+      },
+      "id": "node/13390047801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13391635701",
+        "amenity": "pub",
+        "name:en": "Suapobbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0826407,
+          24.4427215
+        ]
+      },
+      "id": "node/13391635701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13437641201",
+        "addr:housenumber": "275-101",
+        "addr:street": "大同路",
+        "amenity": "cafe",
+        "cuisine": "chinese;noodles",
+        "name": "砂锅刀削面",
+        "name:en": "Knife-cut Noodles",
+        "opening_hours": "Mo-Su 10:20-14:00, 17:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "15980935882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0751203,
+          24.4597927
+        ]
+      },
+      "id": "node/13437641201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13437696503",
+        "addr:housenumber": "285",
+        "addr:street": "大同路",
+        "amenity": "cafe",
+        "cuisine": "chinese;noodles",
+        "name": "山丽妍沙茶面",
+        "name:en": "Shacha Noodles",
+        "opening_hours": "Mo-Su 11:30-20:30",
+        "outdoor_seating": "no",
+        "phone": "2112126",
+        "website": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/shan-li-yan-sha-cha-mian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0752538,
+          24.4598147
+        ]
+      },
+      "id": "node/13437696503"
+    }
+  ]
+}

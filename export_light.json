@@ -1,0 +1,4894 @@
+{
+  "type": "PoiCollection",
+  "count": 356,
+  "points": [
+    {
+      "id": "way/296469398",
+      "name": "玉仁食堂",
+      "category": "restaurant",
+      "coords": [
+        118.173664,
+        24.4896948
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "commercial"
+      }
+    },
+    {
+      "id": "way/386930646",
+      "name": "188海鲜大排档",
+      "category": "restaurant",
+      "coords": [
+        118.1361372,
+        24.4376003
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood"
+      }
+    },
+    {
+      "id": "way/386977952",
+      "name": "三棵树海鲜大排档",
+      "category": "restaurant",
+      "coords": [
+        118.1363243,
+        24.4376154
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood"
+      }
+    },
+    {
+      "id": "way/440491169",
+      "name": "新海渔村",
+      "category": "restaurant",
+      "coords": [
+        118.1939861,
+        24.4911204
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/446646217",
+      "name": "大羊丰店",
+      "category": "restaurant",
+      "coords": [
+        118.1021375,
+        24.4904554
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/448583223",
+      "name": "夏商.好清香",
+      "category": "restaurant",
+      "coords": [
+        118.1028505,
+        24.4908564
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/474150156",
+      "name": "Odenwalder German Restaurant",
+      "category": "restaurant",
+      "coords": [
+        118.0781299,
+        24.4460071
+      ],
+      "tags": {
+        "addr:city": "Xiamen (Fujian)",
+        "addr:housenumber": "54#32",
+        "addr:postcode": "361005",
+        "addr:street": "民族路",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "30",
+        "cuisine": "german",
+        "name:de": "Odenwalder deutsches Restaurant",
+        "opening_hours": "11:30-21:30",
+        "outdoor_seating": "yes",
+        "phone": "+86 157 5923 3454",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "way/539949209",
+      "name": "Jun Hao Hui XiangLa YouHuo Sichuan Restaurant",
+      "category": "restaurant",
+      "coords": [
+        118.1189197,
+        24.50123
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "id": "way/547187452",
+      "name": "202特色排档",
+      "category": "restaurant",
+      "coords": [
+        118.155196,
+        24.4832252
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/547187835",
+      "name": "洪文大排档",
+      "category": "restaurant",
+      "coords": [
+        118.1550647,
+        24.4820297
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/578316436",
+      "name": "南海渔村餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.1787908,
+        24.4659096
+      ],
+      "tags": {
+        "addr:city": "厦门",
+        "addr:postcode": "361008",
+        "addr:street": "文兴东路",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "id": "way/641097289",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.065824,
+        24.4455168
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/909149648",
+      "name": "Huli 24-hour Self-service Library",
+      "category": "public_bookcase",
+      "coords": [
+        118.1647211,
+        24.5218202
+      ],
+      "tags": {
+        "amenity": "public_bookcase",
+        "opening_hours": "24/7",
+        "operator": "Xiamen Municipal LIbrary"
+      }
+    },
+    {
+      "id": "way/1037048888",
+      "name": "锦鲜品芳",
+      "category": "restaurant",
+      "coords": [
+        118.1041712,
+        24.4752411
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037048889",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1041546,
+        24.4752881
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037048894",
+      "name": "袁阿姨东北水饺",
+      "category": "restaurant",
+      "coords": [
+        118.1041181,
+        24.4754746
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037048895",
+      "name": "阿斌漳州四果汤",
+      "category": "restaurant",
+      "coords": [
+        118.1041093,
+        24.4755022
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037048897",
+      "name": "味兴小吃店",
+      "category": "restaurant",
+      "coords": [
+        118.1040859,
+        24.4755706
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037048905",
+      "name": "广东肠粉",
+      "category": "restaurant",
+      "coords": [
+        118.1040158,
+        24.4757763
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037048906",
+      "name": "思北酸笋面",
+      "category": "restaurant",
+      "coords": [
+        118.1040046,
+        24.4758103
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "way/1037063854",
+      "name": "有一家简餐店",
+      "category": "restaurant",
+      "coords": [
+        118.102661,
+        24.4749305
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037063860",
+      "name": "闽家小灶",
+      "category": "restaurant",
+      "coords": [
+        118.1027218,
+        24.4747427
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037859250",
+      "name": "潮汕卤鹅金榜店",
+      "category": "restaurant",
+      "coords": [
+        118.10277,
+        24.4745926
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037859251",
+      "name": "渔家庄金榜店",
+      "category": "restaurant",
+      "coords": [
+        118.1027853,
+        24.4745458
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037859253",
+      "name": "随心烧烤",
+      "category": "restaurant",
+      "coords": [
+        118.102815,
+        24.4744544
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1037859262",
+      "name": "李董哥",
+      "category": "restaurant",
+      "coords": [
+        118.1029423,
+        24.4740582
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1055303647",
+      "name": "未来海鲜大排档",
+      "category": "restaurant",
+      "coords": [
+        118.1020221,
+        24.4735432
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood"
+      }
+    },
+    {
+      "id": "node/1588295483",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0689473,
+        24.4581979
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "id": "node/1598754945",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1101066,
+        24.4748973
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "id": "node/1636073710",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.1725551,
+        24.5063109
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/1659973120",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1710305,
+        24.4962751
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1659973123",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.170824,
+        24.4962995
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1659973124",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1708991,
+        24.4962897
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1659973125",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1710841,
+        24.4962751
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1761690548",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0926682,
+        24.4436179
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1761690575",
+      "name": "Villa 6",
+      "category": "restaurant",
+      "coords": [
+        118.0936374,
+        24.44182
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1761690581",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0923651,
+        24.4437229
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/1762860429",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0630253,
+        24.4482709
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/1843122384",
+      "name": "香村瓦缸煨汤馆",
+      "category": "restaurant",
+      "coords": [
+        118.0769642,
+        24.4574942
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name:fr": "Restaurant de soupes mijotées en jarre de Xiāngcūn",
+        "name:zh": "香村瓦缸煨汤馆",
+        "name:zh-Latn-pinyin": "xiāngcūn wǎgāng wēitāng guǎn"
+      }
+    },
+    {
+      "id": "node/1936999125",
+      "name": "Helen's",
+      "category": "bar",
+      "coords": [
+        118.0838497,
+        24.4462643
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/2024699349",
+      "name": "必胜客",
+      "category": "restaurant",
+      "coords": [
+        118.0746851,
+        24.4638258
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "必胜客",
+        "brand:en": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "zh:必胜客",
+        "brand:zh": "必胜客",
+        "cuisine": "pizza",
+        "name:en": "Pizza Hut",
+        "name:zh": "必胜客"
+      }
+    },
+    {
+      "id": "node/2024699366",
+      "name": null,
+      "category": "nightclub",
+      "coords": [
+        118.0710021,
+        24.4736883
+      ],
+      "tags": {
+        "amenity": "nightclub"
+      }
+    },
+    {
+      "id": "node/2024699372",
+      "name": null,
+      "category": "nightclub",
+      "coords": [
+        118.0714825,
+        24.4737034
+      ],
+      "tags": {
+        "amenity": "nightclub"
+      }
+    },
+    {
+      "id": "node/2024699373",
+      "name": "诺亚金樽",
+      "category": "nightclub",
+      "coords": [
+        118.0705008,
+        24.4739719
+      ],
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Nuoya Jinzun",
+        "name:zh": "诺亚金樽"
+      }
+    },
+    {
+      "id": "node/2303555454",
+      "name": "味稻粥城",
+      "category": "restaurant",
+      "coords": [
+        118.1001647,
+        24.479147
+      ],
+      "tags": {
+        "addr:city": "厦门市",
+        "addr:street": "湖光路",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/3050323615",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0933978,
+        24.4415524
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/3051160184",
+      "name": "芙蓉餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0973197,
+        24.4381454
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/3051160189",
+      "name": "1921咖啡厅",
+      "category": "cafe",
+      "coords": [
+        118.0987378,
+        24.4384369
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/3196499328",
+      "name": "海滨餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.1015469,
+        24.4349366
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/3841272927",
+      "name": "东苑餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0971948,
+        24.4384482
+      ],
+      "tags": {
+        "addr:city": "厦门",
+        "addr:housenumber": "422",
+        "addr:postcode": "361005",
+        "addr:street": "思明南路",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/3870729636",
+      "name": "重庆麻辣烫",
+      "category": "restaurant",
+      "coords": [
+        118.1034539,
+        24.4707853
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/3870729646",
+      "name": "露江小吃姜母鸭",
+      "category": "restaurant",
+      "coords": [
+        118.1032696,
+        24.4706496
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/3951690975",
+      "name": "北方人饺子馆",
+      "category": "restaurant",
+      "coords": [
+        118.0814528,
+        24.470611
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "dumplings"
+      }
+    },
+    {
+      "id": "node/3951690976",
+      "name": "融绘鱼肆",
+      "category": "restaurant",
+      "coords": [
+        118.0816265,
+        24.4713213
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4011287259",
+      "name": "玉仁食堂",
+      "category": "restaurant",
+      "coords": [
+        118.181769,
+        24.4895392
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4036209425",
+      "name": "廈門盛捷公寓",
+      "category": "restaurant",
+      "coords": [
+        118.1701338,
+        24.4880127
+      ],
+      "tags": {
+        "addr:housenumber": "2號",
+        "addr:street": "金山路",
+        "amenity": "restaurant",
+        "phone": "+86 592 323 6888"
+      }
+    },
+    {
+      "id": "node/4036209426",
+      "name": "伊兰风情",
+      "category": "restaurant",
+      "coords": [
+        118.1701779,
+        24.4876637
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4063521850",
+      "name": "小眼镜大排档",
+      "category": "restaurant",
+      "coords": [
+        118.0873525,
+        24.4566706
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4063521851",
+      "name": "小舒友大排档",
+      "category": "restaurant",
+      "coords": [
+        118.0869342,
+        24.4568831
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4118786826",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1695584,
+        24.4832935
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4151117800",
+      "name": "上湖居",
+      "category": "restaurant",
+      "coords": [
+        118.1030199,
+        24.470662
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4191876423",
+      "name": "豆捞坊",
+      "category": "restaurant",
+      "coords": [
+        118.1861242,
+        24.4757506
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4220908218",
+      "name": "Chai",
+      "category": "cafe",
+      "coords": [
+        118.0750875,
+        24.4625798
+      ],
+      "tags": {
+        "addr:city": "厦门",
+        "addr:housenumber": "296号香港广场121店铺",
+        "addr:street": "厦禾路 Xiahe Road",
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "internet_access": "yes",
+        "level": "1",
+        "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 13:00-23:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "id": "node/4290388899",
+      "name": "乌糖沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.0793162,
+        24.4463069
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name:zh": "乌糖沙茶面",
+        "name:zh-Hans": "乌糖沙茶面",
+        "name:zh-Hant": "烏糖沙茶麵"
+      }
+    },
+    {
+      "id": "node/4312333031",
+      "name": "緣盛意",
+      "category": "restaurant",
+      "coords": [
+        118.0841005,
+        24.4443251
+      ],
+      "tags": {
+        "addr:street": "蜂巢山路",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4332323005",
+      "name": "四里沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.0913713,
+        24.490472
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "七星西路分店"
+      }
+    },
+    {
+      "id": "node/4335480821",
+      "name": "宝贵",
+      "category": "restaurant",
+      "coords": [
+        118.0905057,
+        24.4837902
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "闽南菜"
+      }
+    },
+    {
+      "id": "node/4335480822",
+      "name": "蚝好吃",
+      "category": "restaurant",
+      "coords": [
+        118.0908195,
+        24.4838268
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "烧烤"
+      }
+    },
+    {
+      "id": "node/4335480827",
+      "name": "羊事儿",
+      "category": "restaurant",
+      "coords": [
+        118.0919246,
+        24.4841246
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "烧烤"
+      }
+    },
+    {
+      "id": "node/4370114290",
+      "name": "胖胖啤酒马",
+      "category": "pub",
+      "coords": [
+        118.082271,
+        24.4401017
+      ],
+      "tags": {
+        "addr:district": "思明区",
+        "addr:housenumber": "154",
+        "addr:place": "沙坡尾艺术西区",
+        "addr:postcode": "361005",
+        "amenity": "pub",
+        "branch": "艺术西区厂区店",
+        "name:nl": "Fat Fat Beer Horse",
+        "name:zh-Hans": "胖胖啤酒马"
+      }
+    },
+    {
+      "id": "node/4370689725",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0829374,
+        24.4417137
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name:nl": "Absinth bar"
+      }
+    },
+    {
+      "id": "node/4382319585",
+      "name": "厦门 厦门",
+      "category": "restaurant",
+      "coords": [
+        118.0749631,
+        24.4799366
+      ],
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "361012",
+        "addr:street": "湖滨北路",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name:en": "Greg's"
+      }
+    },
+    {
+      "id": "node/4413193699",
+      "name": "金燕福海鲜餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0753177,
+        24.4787738
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood"
+      }
+    },
+    {
+      "id": "node/4489893990",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1144693,
+        24.4897872
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4489893991",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0795935,
+        24.4793094
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4489895389",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0972523,
+        24.4746887
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/4574156996",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0702696,
+        24.4741953
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4599775900",
+      "name": "好香来",
+      "category": "restaurant",
+      "coords": [
+        118.0888728,
+        24.4679261
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4658659655",
+      "name": "兰州拉面",
+      "category": "restaurant",
+      "coords": [
+        118.092251,
+        24.4892461
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen"
+      }
+    },
+    {
+      "id": "node/4750191721",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0807777,
+        24.4783592
+      ],
+      "tags": {
+        "addr:housenumber": "5-8",
+        "addr:postcode": "361000",
+        "addr:street": "官任路",
+        "amenity": "bar",
+        "name:en": "The Londoner"
+      }
+    },
+    {
+      "id": "node/4774555911",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0784486,
+        24.4802929
+      ],
+      "tags": {
+        "addr:housenumber": "28",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "old_name": "潮福城",
+        "old_name:en": "Lucky Full Seafood Restaurant"
+      }
+    },
+    {
+      "id": "node/4775949268",
+      "name": "草根堂私房菜 Cao Gen Tang",
+      "category": "restaurant",
+      "coords": [
+        118.1243544,
+        24.4893126
+      ],
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "凌香里",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegetarian": "yes",
+        "name:en": "Grassroots"
+      }
+    },
+    {
+      "id": "node/4776223636",
+      "name": "良筑",
+      "category": "cafe",
+      "coords": [
+        118.0829785,
+        24.4621391
+      ],
+      "tags": {
+        "addr:city": "Xiamen",
+        "addr:postcode": "361000",
+        "addr:street": "华新路",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no"
+      }
+    },
+    {
+      "id": "node/4778004521",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0827726,
+        24.4626634
+      ],
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "华新路 Huaxin Road",
+        "amenity": "cafe",
+        "name:en": "32/HOW"
+      }
+    },
+    {
+      "id": "node/4780427276",
+      "name": "沁园咖啡厅",
+      "category": "cafe",
+      "coords": [
+        118.0875635,
+        24.4589046
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Garden Coffee Shop"
+      }
+    },
+    {
+      "id": "node/4787601823",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.094582,
+        24.5164141
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Guo Lu Café"
+      }
+    },
+    {
+      "id": "node/4828111621",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0763024,
+        24.4794407
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4904416766",
+      "name": "彼莱德花园西餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.186206,
+        24.4788509
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4904422010",
+      "name": "72串烧烤",
+      "category": "restaurant",
+      "coords": [
+        118.1862581,
+        24.4787986
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/4928415010",
+      "name": "LA VIE Cafe",
+      "category": "cafe",
+      "coords": [
+        118.1169033,
+        24.4876449
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/4928459920",
+      "name": "马尔龙新疆饭庄",
+      "category": "restaurant",
+      "coords": [
+        118.1166387,
+        24.4882879
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/5222057807",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0806627,
+        24.4783426
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/5224209381",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1186646,
+        24.5014066
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "ice_cream"
+      }
+    },
+    {
+      "id": "node/5240467821",
+      "name": "中燃海鲜酒家",
+      "category": "restaurant",
+      "coords": [
+        118.0698555,
+        24.456489
+      ],
+      "tags": {
+        "addr:housenumber": "5-7",
+        "addr:street": "海后路",
+        "amenity": "restaurant",
+        "cuisine": "asian;chinese",
+        "name:en": "Zhongran Seafood Restaurant",
+        "name:zh": "中燃海鲜酒家",
+        "name:zh-Hans": "中燃海鲜酒家",
+        "name:zh-Hant": "中燃海鮮酒家",
+        "phone": "+86 592 203 8502"
+      }
+    },
+    {
+      "id": "node/5275085628",
+      "name": "黄则和花生汤",
+      "category": "restaurant",
+      "coords": [
+        118.0710863,
+        24.4559945
+      ],
+      "tags": {
+        "addr:housenumber": "22;20",
+        "addr:street": "中山路 Zhongshan Road",
+        "amenity": "restaurant",
+        "description": "Peanut soup",
+        "description:fr": "Spécialité de soupe d'arachide : huasheng tang",
+        "name:en": "Huang Zehe Peanut Soup Restaurant",
+        "opening_hours": "Mo-Su 06:30-22:30"
+      }
+    },
+    {
+      "id": "node/5275088721",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.075525,
+        24.4569019
+      ],
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "局口街",
+        "amenity": "restaurant",
+        "name:en": "A Qin Chun Juan (Xiamen Spring Roll)"
+      }
+    },
+    {
+      "id": "node/5498280521",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0858268,
+        24.4390707
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Thank You Cafe"
+      }
+    },
+    {
+      "id": "node/5623322625",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0744231,
+        24.4605818
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Beer Dog"
+      }
+    },
+    {
+      "id": "node/5740156822",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1046907,
+        24.4827012
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "good noodle dishes"
+      }
+    },
+    {
+      "id": "node/5868527685",
+      "name": "Puti Vegetarian Restaurant;六意",
+      "category": "restaurant",
+      "coords": [
+        118.0794693,
+        24.4506064
+      ],
+      "tags": {
+        "addr:housenumber": "4th floor",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name:de": "Puti Vegetarian Restaurant",
+        "name:en": "Puti Vegetarian Restaurant;Liuyi",
+        "name:es": "Puti Vegetarian Restaurant",
+        "name:fr": "Puti Vegetarian Restaurant",
+        "name:zh": "Puti Vegetarian Restaurant",
+        "shop": "convenience"
+      }
+    },
+    {
+      "id": "node/5902983738",
+      "name": "东渡路榕树缘",
+      "category": "restaurant",
+      "coords": [
+        118.0698323,
+        24.4852115
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:zh": "东渡路榕树缘",
+        "name:zh-Hans": "东渡路榕树缘",
+        "name:zh-Hant": "東渡路榕樹緣"
+      }
+    },
+    {
+      "id": "node/6117892943",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.1136364,
+        24.4754637
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/6361869085",
+      "name": "盘子与饺子",
+      "category": "restaurant",
+      "coords": [
+        118.0831402,
+        24.46383
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "dumplings",
+        "name:en": "Pans and Dumplings"
+      }
+    },
+    {
+      "id": "node/6950101585",
+      "name": "褚家园咖啡馆",
+      "category": "cafe",
+      "coords": [
+        118.0648029,
+        24.4454514
+      ],
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:street": "Zhonghua Road",
+        "amenity": "cafe",
+        "cuisine": "western",
+        "description": "Coffee, tea and western food",
+        "name:en": "The Chu Family Coffee",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+86 592 206 3651",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      }
+    },
+    {
+      "id": "node/8093821945",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.0769121,
+        24.4556044
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8273731502",
+      "name": "羔羊地带羊肉串",
+      "category": "restaurant",
+      "coords": [
+        118.1624046,
+        24.4932643
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8353625619",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0665171,
+        24.4445345
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "description": "Creative Seafood restaurant",
+        "source": "Notes"
+      }
+    },
+    {
+      "id": "node/8383717316",
+      "name": "屿·往事酒吧",
+      "category": "bar",
+      "coords": [
+        118.0594196,
+        24.4513276
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/8383725811",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0591763,
+        24.4512557
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8383725812",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0641433,
+        24.4477523
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8383725813",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0638474,
+        24.4486598
+      ],
+      "tags": {
+        "addr:housenumber": "21",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8383735910",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0641467,
+        24.4481815
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/8383767127",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0641944,
+        24.448663
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8383768219",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0590747,
+        24.4510299
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8383769129",
+      "name": "留声机民谣酒吧",
+      "category": "bar",
+      "coords": [
+        118.0584731,
+        24.4508124
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/8383769446",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0631988,
+        24.4472482
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Greentrain Tea & Puff"
+      }
+    },
+    {
+      "id": "node/8383773196",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0594985,
+        24.4513543
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8383774305",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.062735,
+        24.4474941
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8383774807",
+      "name": "Cantata",
+      "category": "cafe",
+      "coords": [
+        118.0617167,
+        24.4459208
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8383774863",
+      "name": "Citiark",
+      "category": "cafe",
+      "coords": [
+        118.0637642,
+        24.4488695
+      ],
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:street": "Guxin Road",
+        "amenity": "cafe",
+        "name:en": "Citiark Coffee and Cake",
+        "opening_hours": "Mo-Su 08:30-19:30",
+        "phone": "+86 592 592 4569"
+      }
+    },
+    {
+      "id": "node/8383774864",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0583385,
+        24.4491772
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood"
+      }
+    },
+    {
+      "id": "node/8383776113",
+      "name": "Na's Intimate Cuisine",
+      "category": "cafe",
+      "coords": [
+        118.0627127,
+        24.4476377
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/8383780334",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0589938,
+        24.4486714
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8383781129",
+      "name": "Laohai Wu",
+      "category": "restaurant",
+      "coords": [
+        118.0635131,
+        24.4471782
+      ],
+      "tags": {
+        "addr:city": "厦门市",
+        "addr:district": "思明区",
+        "addr:housenumber": "95",
+        "addr:province": "福建省",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8383781220",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0643897,
+        24.4485047
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8383781620",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0588105,
+        24.4489349
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "description": "Steamed seafood"
+      }
+    },
+    {
+      "id": "node/8386383114",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0615202,
+        24.4447429
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/8386397244",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.066594,
+        24.4470978
+      ],
+      "tags": {
+        "addr:housenumber": "164;166;168",
+        "addr:street": "龙头路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:de": "Starbucks Coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+86 592 206 0158",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8386398979",
+      "name": "Pansun Coffee",
+      "category": "cafe",
+      "coords": [
+        118.0648928,
+        24.4457043
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "level": "0",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8386408606",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0645352,
+        24.4469674
+      ],
+      "tags": {
+        "addr:city": "厦门市",
+        "addr:district": "思明区",
+        "addr:housenumber": "34",
+        "addr:province": "福建省",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8386408608",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0687099,
+        24.4478377
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8386416509",
+      "name": "C•D Coffee",
+      "category": "cafe",
+      "coords": [
+        118.0677982,
+        24.4481901
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/8386429448",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0676531,
+        24.4475572
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8386430926",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0597347,
+        24.448574
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8386847676",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0589094,
+        24.4510463
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mr. Right"
+      }
+    },
+    {
+      "id": "node/8386852179",
+      "name": "Cocktail Bar",
+      "category": "bar",
+      "coords": [
+        118.0582293,
+        24.4497654
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/8386858543",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0603739,
+        24.4419224
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8386867063",
+      "name": "I Know U Know",
+      "category": "cafe",
+      "coords": [
+        118.059108,
+        24.4422752
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "description": "Rooftop outdoor seating",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8389902205",
+      "name": "Mr. Sea Monster Cafe",
+      "category": "cafe",
+      "coords": [
+        118.0678122,
+        24.4450319
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8389914409",
+      "name": "一席水产",
+      "category": "restaurant",
+      "coords": [
+        118.0654479,
+        24.4500276
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Yi Xi Shui Chan",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/8389925458",
+      "name": "River's Cafe",
+      "category": "cafe",
+      "coords": [
+        118.0626888,
+        24.4522119
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/8389935666",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0658666,
+        24.4473305
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Lin's Tea Noodles"
+      }
+    },
+    {
+      "id": "node/8389938373",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0655824,
+        24.4476249
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8389948638",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0618391,
+        24.4521515
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8398764377",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.1424556,
+        24.5470707
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "level": "1",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8410725044",
+      "name": "星巴克厦门砂之船奥莱分店",
+      "category": "cafe",
+      "coords": [
+        118.1870343,
+        24.5320421
+      ],
+      "tags": {
+        "addr:city": "厦门市",
+        "addr:district": "湖里区",
+        "addr:province": "福建省",
+        "addr:street": "环岛东路2486、2488号砂之船奥特莱斯旅游博览中心裙楼地上一层的XM1-B-27单元",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克厦门砂之船奥莱分店",
+        "opening_hours": "08:00-22:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8532192318",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0718615,
+        24.457776
+      ],
+      "tags": {
+        "addr:housenumber": "92",
+        "addr:street": "大中路",
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "phone": "+86 158 5928 7467"
+      }
+    },
+    {
+      "id": "node/8532813317",
+      "name": "21 Gram Coffee",
+      "category": "cafe",
+      "coords": [
+        118.0747528,
+        24.465731
+      ],
+      "tags": {
+        "addr:housenumber": "2-116",
+        "addr:street": "禾祥西路",
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "phone": "+86 133 2879 2721"
+      }
+    },
+    {
+      "id": "node/8532831819",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.102651,
+        24.4668731
+      ],
+      "tags": {
+        "addr:housenumber": "4 A144",
+        "addr:street": "Wenchuangyuan",
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "phone": "+86 173 5944 9669"
+      }
+    },
+    {
+      "id": "node/8533027117",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.156217,
+        24.5174411
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:de": "21 Gram Coffee",
+        "name:en": "21 Gram Coffee",
+        "opening_hours": "Mo-Su 08:30-20:00"
+      }
+    },
+    {
+      "id": "node/8533088817",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0800305,
+        24.4783001
+      ],
+      "tags": {
+        "addr:housenumber": "2-4",
+        "addr:street": "官任路",
+        "amenity": "cafe",
+        "name:en": "Delta Coffee",
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "phone": "+86 199 0604 5047"
+      }
+    },
+    {
+      "id": "node/8534739917",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1084969,
+        24.492379
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Give Coffee",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+86 181 0609 3395"
+      }
+    },
+    {
+      "id": "node/8534812817",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0714696,
+        24.4576864
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "升平路",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name:en": "Saigon Saigon",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+86 592 202 6128"
+      }
+    },
+    {
+      "id": "node/8534831417",
+      "name": "瑞幸咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0753398,
+        24.4518682
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:wikipedia": "zh:瑞幸咖啡",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8535928717",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0819763,
+        24.4416532
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Ling Café"
+      }
+    },
+    {
+      "id": "node/8536586217",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0882122,
+        24.4431433
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Ti Coffee"
+      }
+    },
+    {
+      "id": "node/8536586317",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0881195,
+        24.442649
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Fenmind Coffee"
+      }
+    },
+    {
+      "id": "node/8536589817",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0881576,
+        24.4436105
+      ],
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Nanhua Road",
+        "amenity": "cafe",
+        "name:en": "Bata Bata Patisserie and Cafe",
+        "opening_hours": "Mo-Su 13:00-20:00",
+        "phone": "+86 592 251 1602"
+      }
+    },
+    {
+      "id": "node/8537009717",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.086122,
+        24.4401055
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Jalamo Mexican Restaurant"
+      }
+    },
+    {
+      "id": "node/8537075117",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0864873,
+        24.4427022
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name:en": "1970 Bar"
+      }
+    },
+    {
+      "id": "node/8537147018",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.083789,
+        24.4385629
+      ],
+      "tags": {
+        "addr:housenumber": "182",
+        "addr:street": "演武路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:30",
+        "phone": "+86 592 208 7611",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8539597917",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0832809,
+        24.4463027
+      ],
+      "tags": {
+        "addr:housenumber": "485",
+        "addr:street": "思明南路",
+        "amenity": "cafe",
+        "name:en": "CT Cafe",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+86 180 5988 5931"
+      }
+    },
+    {
+      "id": "node/8539679117",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0846803,
+        24.4443628
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Take-away Coffee"
+      }
+    },
+    {
+      "id": "node/8539690717",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0822485,
+        24.4427542
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Tuscany Cafe"
+      }
+    },
+    {
+      "id": "node/8539724318",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0821877,
+        24.4430423
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "La Poste Café",
+        "opening_hours": "Mo-Su 09:00-20:00"
+      }
+    },
+    {
+      "id": "node/8539734617",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0879943,
+        24.4396727
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Houcaller Steak"
+      }
+    },
+    {
+      "id": "node/8540204817",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1016673,
+        24.4304447
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "only one Coffee"
+      }
+    },
+    {
+      "id": "node/8540499817",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.087361,
+        24.4431282
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Boom Coffee Shop"
+      }
+    },
+    {
+      "id": "node/8541401517",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0842944,
+        24.4394727
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop;italian_pizza;pizza",
+        "name:en": "Paradiso Pizza Bread Coffee"
+      }
+    },
+    {
+      "id": "node/8541410017",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.085611,
+        24.440121
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "american;international;mexican",
+        "name:en": "La Casa"
+      }
+    },
+    {
+      "id": "node/8542978317",
+      "name": "瑞幸咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0780992,
+        24.4537347
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8542978318",
+      "name": "Tox Coffee第肆咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0742993,
+        24.4653826
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Tox Coffee",
+        "name:zh": "第肆咖啡"
+      }
+    },
+    {
+      "id": "node/8542978319",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0854492,
+        24.4709648
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Starbucks Coffee"
+      }
+    },
+    {
+      "id": "node/8542978417",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0771944,
+        24.4533604
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Harbor Coffee"
+      }
+    },
+    {
+      "id": "node/8542988617",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0769642,
+        24.4686544
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Cake la Cafe"
+      }
+    },
+    {
+      "id": "node/8542995817",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1003935,
+        24.4747211
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Kebab"
+      }
+    },
+    {
+      "id": "node/8543400717",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1082032,
+        24.4948921
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Deck coffee"
+      }
+    },
+    {
+      "id": "node/8543430617",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0800744,
+        24.4810148
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "bends Coffee"
+      }
+    },
+    {
+      "id": "node/8543450617",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.0702978,
+        24.4842258
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8543933817",
+      "name": "瑞幸咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0671429,
+        24.4479283
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8544163518",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.062773,
+        24.4477357
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Yeah Bar"
+      }
+    },
+    {
+      "id": "node/8544460918",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0625525,
+        24.4522665
+      ],
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "Sinming Road",
+        "amenity": "cafe",
+        "name:en": "Heshi River’s Cafe",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+86 137 9974 7040"
+      }
+    },
+    {
+      "id": "node/8544529317",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0632818,
+        24.4496956
+      ],
+      "tags": {
+        "addr:housenumber": "31",
+        "addr:street": "Guxin Road",
+        "amenity": "cafe",
+        "name:en": "Yili Coffee",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+86 133 0603 5780"
+      }
+    },
+    {
+      "id": "node/8547988317",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.06526,
+        24.4476368
+      ],
+      "tags": {
+        "addr:housenumber": "183",
+        "addr:street": "Longtou Road",
+        "amenity": "restaurant",
+        "name:de": "Longtou Haifischbällchen",
+        "name:en": "Longtou Shark Meetballs",
+        "opening_hours": "Mo-Su 08:30-20:00"
+      }
+    },
+    {
+      "id": "node/8548675417",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0678315,
+        24.4450498
+      ],
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:street": "Fujian Road",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop;noodles;pasta;steak_house",
+        "name:en": "Mr. Seamonster Cafe",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "phone": "+86 592 206 2052"
+      }
+    },
+    {
+      "id": "node/8549212817",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0692574,
+        24.445621
+      ],
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Fuxing Road",
+        "amenity": "cafe",
+        "name:en": "Caomu Shijing Cafe and Bar",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+86 139 0600 9061"
+      }
+    },
+    {
+      "id": "node/8552560217",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0659885,
+        24.4476405
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Lim Suhi Minnan Cuisine"
+      }
+    },
+    {
+      "id": "node/8559272117",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.0716952,
+        24.4543447
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8559842919",
+      "name": "太平洋咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0773305,
+        24.4467081
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "太平洋咖啡",
+        "brand:en": "Pacific Coffee",
+        "brand:wikidata": "Q7122398",
+        "brand:wikipedia": "en:Pacific Coffee",
+        "brand:zh": "太平洋咖啡",
+        "cuisine": "coffee_shop",
+        "name:en": "Pacific Coffee",
+        "name:zh": "太平洋咖啡",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8559858917",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0722619,
+        24.4528739
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Reme Roof"
+      }
+    },
+    {
+      "id": "node/8560493517",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.0736343,
+        24.456359
+      ],
+      "tags": {
+        "addr:housenumber": "76-132",
+        "addr:street": "中山路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+86 592 205 2156",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/8560588519",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0741144,
+        24.4578472
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "old theatre and Café"
+      }
+    },
+    {
+      "id": "node/8563465219",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0705694,
+        24.4665277
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "fine dining and bar"
+      }
+    },
+    {
+      "id": "node/8563465718",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0760152,
+        24.4911796
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "La Vie Café"
+      }
+    },
+    {
+      "id": "node/8695596517",
+      "name": "临家闽南菜",
+      "category": "restaurant",
+      "coords": [
+        118.113052,
+        24.4746663
+      ],
+      "tags": {
+        "addr:street": "厦禾路",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8769061240",
+      "name": "梵尔纳餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.157571,
+        24.4477152
+      ],
+      "tags": {
+        "addr:housenumber": "551号",
+        "addr:street": "厦门市思明区环岛南路",
+        "amenity": "restaurant",
+        "description": "梵尔纳海洋文化主题餐厅",
+        "phone": "+86 592 662 0999"
+      }
+    },
+    {
+      "id": "node/8769061241",
+      "name": "左稻",
+      "category": "restaurant",
+      "coords": [
+        118.1862508,
+        24.4761013
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "description": "Z&D Cuisine"
+      }
+    },
+    {
+      "id": "node/8769067275",
+      "name": "江南古镇",
+      "category": "restaurant",
+      "coords": [
+        118.0810805,
+        24.4681367
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8775635966",
+      "name": "黄家花园餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0648102,
+        24.4434264
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8778275071",
+      "name": "202特色排档",
+      "category": "restaurant",
+      "coords": [
+        118.1244427,
+        24.4895774
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8778335348",
+      "name": "亲爱的麻辣烫",
+      "category": "restaurant",
+      "coords": [
+        118.1160127,
+        24.4806798
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8778353760",
+      "name": "土龙庄莲花煎蟹",
+      "category": "restaurant",
+      "coords": [
+        118.12419,
+        24.4891705
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8778357605",
+      "name": "客宴",
+      "category": "restaurant",
+      "coords": [
+        118.1208489,
+        24.4889166
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/8778361570",
+      "name": "里昂家",
+      "category": "cafe",
+      "coords": [
+        118.123225,
+        24.4890935
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/8778372036",
+      "name": "厨嫂当家",
+      "category": "restaurant",
+      "coords": [
+        118.1206575,
+        24.4887587
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9521285342",
+      "name": "中国邮政咖啡",
+      "category": "cafe",
+      "coords": [
+        118.1136093,
+        24.478336
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Cost Coffee",
+        "name:zh": "中国邮政咖啡"
+      }
+    },
+    {
+      "id": "node/9550881177",
+      "name": "遇见生蚝馆万象城店",
+      "category": "restaurant",
+      "coords": [
+        118.1044891,
+        24.4740871
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9550881178",
+      "name": "满堂红",
+      "category": "restaurant",
+      "coords": [
+        118.1045053,
+        24.4740387
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9550881179",
+      "name": "西北拉面",
+      "category": "restaurant",
+      "coords": [
+        118.1045191,
+        24.4739868
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9551011472",
+      "name": "Olivia",
+      "category": "bar",
+      "coords": [
+        118.104648,
+        24.4736183
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/9551011473",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1046588,
+        24.4735922
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9551011474",
+      "name": "老梁烧烤万象城店",
+      "category": "restaurant",
+      "coords": [
+        118.1046668,
+        24.4735616
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9551011479",
+      "name": "豪享汤",
+      "category": "restaurant",
+      "coords": [
+        118.1043852,
+        24.4733596
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9551417620",
+      "name": "苏氏炖品馆禾祥东店",
+      "category": "restaurant",
+      "coords": [
+        118.1034734,
+        24.4731003
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9551417621",
+      "name": "亚强沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.1034367,
+        24.4730936
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9551417632",
+      "name": "舌尖上的牛肉面",
+      "category": "restaurant",
+      "coords": [
+        118.1033115,
+        24.4731675
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9553502720",
+      "name": "阿忠食坊",
+      "category": "restaurant",
+      "coords": [
+        118.1043402,
+        24.4745313
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9553502723",
+      "name": "小薛烧烤",
+      "category": "restaurant",
+      "coords": [
+        118.1042597,
+        24.4747745
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9553502724",
+      "name": "秘制猪脚饭",
+      "category": "restaurant",
+      "coords": [
+        118.1042428,
+        24.4748215
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9553517754",
+      "name": "沙县小吃",
+      "category": "restaurant",
+      "coords": [
+        118.1034066,
+        24.4757976
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9553517755",
+      "name": "厦门薄饼驴肉汤店",
+      "category": "restaurant",
+      "coords": [
+        118.1033603,
+        24.4757842
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9553517762",
+      "name": "石磨肠粉",
+      "category": "restaurant",
+      "coords": [
+        118.1025281,
+        24.475549
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9559501851",
+      "name": "喜茶",
+      "category": "cafe",
+      "coords": [
+        118.1056578,
+        24.4738756
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "喜茶",
+        "brand:en": "Heytea",
+        "brand:wikidata": "Q60875376",
+        "brand:wikipedia": "zh:喜茶",
+        "brand:zh": "喜茶",
+        "cuisine": "bubble_tea",
+        "name:en": "Heytea",
+        "name:zh": "喜茶",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/9559795578",
+      "name": "太平洋咖啡",
+      "category": "cafe",
+      "coords": [
+        118.1066779,
+        24.4741234
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "太平洋咖啡",
+        "brand:en": "Pacific Coffee",
+        "brand:wikidata": "Q7122398",
+        "brand:wikipedia": "en:Pacific Coffee",
+        "brand:zh": "太平洋咖啡",
+        "cuisine": "coffee_shop",
+        "name:en": "Pacific Coffee",
+        "name:zh": "太平洋咖啡",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/9559795598",
+      "name": "奈雪的茶",
+      "category": "cafe",
+      "coords": [
+        118.1056281,
+        24.475152
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "奈雪的茶",
+        "brand:en": "Nayuki",
+        "brand:wikidata": "Q107351710",
+        "brand:wikipedia": "zh:奈雪的茶",
+        "brand:zh": "奈雪的茶",
+        "cuisine": "bubble_tea",
+        "name:en": "Nayuki",
+        "name:zh": "奈雪的茶",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/9559925856",
+      "name": "1點點",
+      "category": "cafe",
+      "coords": [
+        118.1052589,
+        24.4730041
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "bubble_tea"
+      }
+    },
+    {
+      "id": "node/9561883576",
+      "name": "老塞行动咖啡",
+      "category": "cafe",
+      "coords": [
+        118.1054798,
+        24.4724328
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/9561883577",
+      "name": "牧田",
+      "category": "restaurant",
+      "coords": [
+        118.1055682,
+        24.4724539
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi"
+      }
+    },
+    {
+      "id": "node/9561883578",
+      "name": "蚝馆",
+      "category": "restaurant",
+      "coords": [
+        118.1056078,
+        24.4724636
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9561883589",
+      "name": "海鲜加工坊",
+      "category": "restaurant",
+      "coords": [
+        118.1057865,
+        24.4725139
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood"
+      }
+    },
+    {
+      "id": "node/9561883606",
+      "name": "蒙古烤羊腿",
+      "category": "restaurant",
+      "coords": [
+        118.1065571,
+        24.4727137
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9561886823",
+      "name": "阿发福扁食",
+      "category": "restaurant",
+      "coords": [
+        118.1063952,
+        24.4734326
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9561901875",
+      "name": "柳州螺蛳粉",
+      "category": "restaurant",
+      "coords": [
+        118.1059568,
+        24.4734589
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9565441058",
+      "name": "欧贝Bar",
+      "category": "bar",
+      "coords": [
+        118.1049776,
+        24.4761537
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/9565441079",
+      "name": "夜将阑居酒屋",
+      "category": "bar",
+      "coords": [
+        118.1050494,
+        24.4760283
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/9567789180",
+      "name": "郭晶晶沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.1047214,
+        24.4731017
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9567789182",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1045354,
+        24.4730556
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9567789186",
+      "name": "502花生汤",
+      "category": "restaurant",
+      "coords": [
+        118.1042319,
+        24.472724
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9567789189",
+      "name": "浮白",
+      "category": "restaurant",
+      "coords": [
+        118.1047861,
+        24.4727392
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9577199959",
+      "name": "OK拉面",
+      "category": "restaurant",
+      "coords": [
+        118.1033216,
+        24.4727359
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9577199965",
+      "name": "李面有料禾祥东店",
+      "category": "restaurant",
+      "coords": [
+        118.1028996,
+        24.4725574
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/9577199966",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1029567,
+        24.472334
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9577199967",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.102948,
+        24.4723657
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9577199976",
+      "name": "周周来约酒",
+      "category": "bar",
+      "coords": [
+        118.1036692,
+        24.4725079
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/9577199984",
+      "name": "吹牛王川菜楼火锅",
+      "category": "restaurant",
+      "coords": [
+        118.104034,
+        24.4726867
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9577199985",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1039793,
+        24.472876
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994119",
+      "name": "津丰源包子禾祥店",
+      "category": "restaurant",
+      "coords": [
+        118.1016727,
+        24.4726742
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994121",
+      "name": "正宗漳州四果汤禾祥东店",
+      "category": "restaurant",
+      "coords": [
+        118.1016469,
+        24.4727399
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994122",
+      "name": "十三香小龙虾",
+      "category": "restaurant",
+      "coords": [
+        118.1016374,
+        24.4727765
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994123",
+      "name": "洪全周洪濑鸡爪",
+      "category": "restaurant",
+      "coords": [
+        118.1016259,
+        24.4728135
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994130",
+      "name": "沙县小吃",
+      "category": "restaurant",
+      "coords": [
+        118.1016014,
+        24.4732109
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994131",
+      "name": "煲仔饭",
+      "category": "restaurant",
+      "coords": [
+        118.1016516,
+        24.4732258
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994132",
+      "name": "吴记酱面福鼎肉片",
+      "category": "restaurant",
+      "coords": [
+        118.1017053,
+        24.4732396
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994133",
+      "name": "雅米小厨",
+      "category": "restaurant",
+      "coords": [
+        118.101801,
+        24.4732619
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994209",
+      "name": "真品酱大骨",
+      "category": "restaurant",
+      "coords": [
+        118.1015155,
+        24.4734292
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9696994212",
+      "name": "本港烧酒配",
+      "category": "restaurant",
+      "coords": [
+        118.1017164,
+        24.4734783
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9728670282",
+      "name": "震亚牛肉面",
+      "category": "restaurant",
+      "coords": [
+        118.1012294,
+        24.4741139
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "后埭溪店",
+        "diet:halal": "yes"
+      }
+    },
+    {
+      "id": "node/9728670283",
+      "name": "食得香粉佳饭",
+      "category": "restaurant",
+      "coords": [
+        118.1012461,
+        24.4740684
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9728670284",
+      "name": "私房酱大骨",
+      "category": "restaurant",
+      "coords": [
+        118.1012647,
+        24.4740106
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9728670289",
+      "name": "张三两",
+      "category": "restaurant",
+      "coords": [
+        118.1014125,
+        24.4735733
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9728670290",
+      "name": "御晟缘姜母鸭",
+      "category": "restaurant",
+      "coords": [
+        118.101424,
+        24.4735338
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9728790168",
+      "name": "如山牛肉",
+      "category": "restaurant",
+      "coords": [
+        118.1047315,
+        24.4793102
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/9728790169",
+      "name": "荣记深海鱼火锅",
+      "category": "restaurant",
+      "coords": [
+        118.1046721,
+        24.4794679
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/10311154345",
+      "name": "蜜雪冰城",
+      "category": "cafe",
+      "coords": [
+        118.0825367,
+        24.4973558
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "branch": "东渡六中店",
+        "brand": "蜜雪冰城",
+        "brand:en": "MIXUEBINGCHENG",
+        "brand:wikidata": "Q107406476",
+        "brand:zh": "蜜雪冰城",
+        "cuisine": "ice_cream;bubble_tea",
+        "name:en": "MIXUEBINGCHENG",
+        "name:zh": "蜜雪冰城",
+        "operator": "厦门市湖里区茗淘蜜奶茶店",
+        "ref": "911638",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/10745313605",
+      "name": "沙茶林",
+      "category": "restaurant",
+      "coords": [
+        118.0973763,
+        24.4629172
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "description": "老牌沙茶面馆，早上有面线糊"
+      }
+    },
+    {
+      "id": "node/10745313606",
+      "name": "万寿臭豆腐和",
+      "category": "restaurant",
+      "coords": [
+        118.0973094,
+        24.4630855
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/10745313607",
+      "name": "凉皮小铺",
+      "category": "restaurant",
+      "coords": [
+        118.0973704,
+        24.4630855
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/10892411905",
+      "name": "12",
+      "category": "cafe",
+      "coords": [
+        118.1363135,
+        24.4640179
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11423288109",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0750492,
+        24.4833077
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11423294074",
+      "name": "落日咖啡",
+      "category": "cafe",
+      "coords": [
+        118.1270618,
+        24.4412216
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11423294159",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1296563,
+        24.4481163
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11423294163",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1316841,
+        24.4504117
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11423294207",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1383306,
+        24.4616331
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11559674573",
+      "name": "大德记二分之一咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0699501,
+        24.4429913
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "opening_hours": "Mo-Su 09:30-20:30"
+      }
+    },
+    {
+      "id": "node/11559675087",
+      "name": "阿香春卷",
+      "category": "restaurant",
+      "coords": [
+        118.0685088,
+        24.4448783
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11559675093",
+      "name": "挑食·本地菜·现煮小厨(鼓浪屿店)",
+      "category": "restaurant",
+      "coords": [
+        118.0683156,
+        24.444822
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11559675107",
+      "name": "海怪先生西餐厅(鼓浪屿店)",
+      "category": "restaurant",
+      "coords": [
+        118.0678123,
+        24.4449625
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561560467",
+      "name": "阿芳卤面",
+      "category": "restaurant",
+      "coords": [
+        118.0663212,
+        24.446556
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561560468",
+      "name": "鑫旺旺蟹黄汤包",
+      "category": "restaurant",
+      "coords": [
+        118.0663027,
+        24.4463824
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604469",
+      "name": "厦门林氏鱼丸(鼓浪屿店)",
+      "category": "restaurant",
+      "coords": [
+        118.0665014,
+        24.4463326
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604476",
+      "name": "赶海人家(鼓浪屿店)",
+      "category": "restaurant",
+      "coords": [
+        118.0663864,
+        24.4460337
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604491",
+      "name": "外婆家小厨",
+      "category": "restaurant",
+      "coords": [
+        118.0655934,
+        24.4451161
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604493",
+      "name": "新四海·京菓鱼货发行(李家庄店)",
+      "category": "restaurant",
+      "coords": [
+        118.0657637,
+        24.4447798
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604497",
+      "name": "李家茶肆",
+      "category": "restaurant",
+      "coords": [
+        118.0662575,
+        24.4447066
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604633",
+      "name": "六悦花园中餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0615764,
+        24.4435193
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604634",
+      "name": "石船顶咖啡屋",
+      "category": "cafe",
+      "coords": [
+        118.0616762,
+        24.4436717
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop"
+      }
+    },
+    {
+      "id": "node/11561604769",
+      "name": "美华水果店",
+      "category": "restaurant",
+      "coords": [
+        118.0587567,
+        24.443867
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11561604779",
+      "name": "章鱼叔八味面馆",
+      "category": "restaurant",
+      "coords": [
+        118.0586828,
+        24.4442092
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "id": "node/11568547906",
+      "name": "十四茶",
+      "category": "restaurant",
+      "coords": [
+        118.0575208,
+        24.4486856
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568548012",
+      "name": "花园餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0575165,
+        24.4497558
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568548014",
+      "name": "六号私房菜·十年传承福建菜",
+      "category": "restaurant",
+      "coords": [
+        118.0579509,
+        24.4496739
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568548103",
+      "name": "曾家园",
+      "category": "restaurant",
+      "coords": [
+        118.0588805,
+        24.4510475
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568548109",
+      "name": "花园餐厅(内厝澳店)",
+      "category": "restaurant",
+      "coords": [
+        118.0592046,
+        24.4512434
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568548128",
+      "name": "亚秀水产餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.059438,
+        24.4515902
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568548132",
+      "name": "铂爵旅拍高档餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0598681,
+        24.4513975
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568605514",
+      "name": "相屿·自由奶茶(鼓浪屿店)",
+      "category": "cafe",
+      "coords": [
+        118.057009,
+        24.4490803
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "bubble_tea"
+      }
+    },
+    {
+      "id": "node/11568605515",
+      "name": "时光餐吧",
+      "category": "restaurant",
+      "coords": [
+        118.0570454,
+        24.4489974
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568605517",
+      "name": "渔家小鲜",
+      "category": "restaurant",
+      "coords": [
+        118.0577328,
+        24.4491383
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568605520",
+      "name": "亚尖大排档(鼓浪屿店)",
+      "category": "restaurant",
+      "coords": [
+        118.0622915,
+        24.452389
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568605530",
+      "name": "AMOY62号精品咖啡",
+      "category": "restaurant",
+      "coords": [
+        118.0626078,
+        24.4524751
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568605532",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0625699,
+        24.4528496
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568605568",
+      "name": "小二郎海鲜餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0582391,
+        24.4492693
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609870",
+      "name": "螺丝钉私房菜",
+      "category": "restaurant",
+      "coords": [
+        118.0584579,
+        24.4491023
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609872",
+      "name": "艺校后门沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.0577659,
+        24.4486643
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609889",
+      "name": "拾陌.moment别墅酒店",
+      "category": "restaurant",
+      "coords": [
+        118.0584901,
+        24.4484328
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609904",
+      "name": "李记沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.0584831,
+        24.4507116
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609908",
+      "name": "六年私厨",
+      "category": "restaurant",
+      "coords": [
+        118.0588334,
+        24.4500008
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609951",
+      "name": "阿木叔私房",
+      "category": "restaurant",
+      "coords": [
+        118.0588219,
+        24.4490391
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609961",
+      "name": "闽味家私厨",
+      "category": "restaurant",
+      "coords": [
+        118.0591128,
+        24.4487377
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609962",
+      "name": "猴年马月花园餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0593501,
+        24.4484729
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568609963",
+      "name": "澳联西饼",
+      "category": "restaurant",
+      "coords": [
+        118.0595778,
+        24.4485007
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568610013",
+      "name": "有间饭店",
+      "category": "restaurant",
+      "coords": [
+        118.0596532,
+        24.4478897
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568610036",
+      "name": "红猪餐厅·鼓浪屿华侨料理",
+      "category": "restaurant",
+      "coords": [
+        118.0598398,
+        24.4470292
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568610059",
+      "name": "喜林阁咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0607524,
+        24.4450868
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11568664579",
+      "name": "书亦烧仙草",
+      "category": "cafe",
+      "coords": [
+        118.0680379,
+        24.4474703
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "书亦烧仙草",
+        "brand:en": "Shuyi Tealicious",
+        "brand:wikidata": "Q107729359",
+        "brand:zh": "书亦烧仙草",
+        "cuisine": "bubble_tea",
+        "name:en": "Shuyi Tealicious",
+        "name:zh": "书亦烧仙草",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/11568664581",
+      "name": "佟小曼手工茶饼坊(鼓浪屿1店)",
+      "category": "restaurant",
+      "coords": [
+        118.0684726,
+        24.4477852
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568664603",
+      "name": "喜祥美小吃店",
+      "category": "restaurant",
+      "coords": [
+        118.0674867,
+        24.4471245
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568664604",
+      "name": "裕泰茶庄(",
+      "category": "restaurant",
+      "coords": [
+        118.0675366,
+        24.447082
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568664611",
+      "name": "湾景旅馆·咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0679084,
+        24.4477897
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/11568664634",
+      "name": "凤姐餐饮店",
+      "category": "restaurant",
+      "coords": [
+        118.0605517,
+        24.4461885
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568664648",
+      "name": "鼓浪·海鲜餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0597487,
+        24.4482413
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568664650",
+      "name": "树兰花下阁楼小厨",
+      "category": "restaurant",
+      "coords": [
+        118.0597782,
+        24.4476736
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11568664676",
+      "name": "厦门市思明区余步园食杂店",
+      "category": "restaurant",
+      "coords": [
+        118.0607492,
+        24.4475564
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11602346804",
+      "name": "望海听风海景餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.0659966,
+        24.4495469
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11602346805",
+      "name": null,
+      "category": "bar",
+      "coords": [
+        118.0658964,
+        24.4496215
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "node/11627393188",
+      "name": "厝边沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.084245,
+        24.4444509
+      ],
+      "tags": {
+        "addr:city": "厦门",
+        "addr:district": "思明区",
+        "addr:housenumber": "蜂巢山路6号104",
+        "addr:province": "福建",
+        "addr:street": "厦港",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "phone": "+86 130 8317 6696"
+      }
+    },
+    {
+      "id": "node/11636806270",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1050867,
+        24.5248545
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "starbucks"
+      }
+    },
+    {
+      "id": "node/11636806473",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0766299,
+        24.4649733
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "korean reataurant Yukyung",
+        "name:ko": "유경 한국식당"
+      }
+    },
+    {
+      "id": "node/11781140375",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.0698448,
+        24.462747
+      ],
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "node/11781163970",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1259541,
+        24.4270861
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "american;chinese",
+        "internet_access": "wlan",
+        "name:en": "Lan"
+      }
+    },
+    {
+      "id": "node/11781163971",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0879645,
+        24.4432065
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Xiao shan chun xia"
+      }
+    },
+    {
+      "id": "node/11835362949",
+      "name": "沙县小吃",
+      "category": "restaurant",
+      "coords": [
+        118.1524441,
+        24.4859313
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "id": "node/11907691861",
+      "name": "开禾沙茶面",
+      "category": "restaurant",
+      "coords": [
+        118.0700857,
+        24.4622856
+      ],
+      "tags": {
+        "addr:housenumber": "126",
+        "addr:street": "厦禾路",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name:zh-Latn-pinyin": "Kaihe Shachamian",
+        "opening_hours": "24/7",
+        "phone": "059286666291"
+      }
+    },
+    {
+      "id": "node/11907723654",
+      "name": "大方素菜馆",
+      "category": "restaurant",
+      "coords": [
+        118.0878426,
+        24.4429149
+      ],
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Nanhua Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name:en": "Da Fang Vegetarian Palace",
+        "phone": "05922093236"
+      }
+    },
+    {
+      "id": "node/11907731659",
+      "name": "鹭江宾馆观海厅",
+      "category": "restaurant",
+      "coords": [
+        118.0696136,
+        24.4561354
+      ],
+      "tags": {
+        "addr:housenumber": "54",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name:en": "Seaview Restaurant"
+      }
+    },
+    {
+      "id": "node/11936904069",
+      "name": "宝香素食自助餐",
+      "category": "restaurant",
+      "coords": [
+        118.1108245,
+        24.4776789
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name:en": "Bǎo Xiāng Vegetarian Buffet",
+        "opening_hours": "Mo-Su 11:00-14:00, 17:00-20:00"
+      }
+    },
+    {
+      "id": "node/11938888469",
+      "name": "清心玉素素食馆",
+      "category": "restaurant",
+      "coords": [
+        118.1252469,
+        24.4919052
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name:en": "Qīngxīn Yùsù Vegetarian Restaurant",
+        "opening_hours": "Mo-Su 11:00-13:30, 17:00-20:30"
+      }
+    },
+    {
+      "id": "node/11939551469",
+      "name": "绿素林自助餐厅",
+      "category": "restaurant",
+      "coords": [
+        118.1177242,
+        24.4813032
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name:en": "Lǜsùlín Buffet Restaurant",
+        "opening_hours": "Mo-Su 11:30-13:30, 17:30-20:30"
+      }
+    },
+    {
+      "id": "node/11945611061",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1277921,
+        24.5318989
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "id": "node/11945611062",
+      "name": null,
+      "category": "restaurant",
+      "coords": [
+        118.1275367,
+        24.5317678
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "id": "node/12214162807",
+      "name": "不在书店",
+      "category": "cafe",
+      "coords": [
+        118.1475977,
+        24.438748
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13070320672",
+      "name": "天津风味火锅(槟榔店)",
+      "category": "restaurant",
+      "coords": [
+        118.1072395,
+        24.4842922
+      ],
+      "tags": {
+        "addr:housenumber": "198號",
+        "addr:street": "东明路",
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "id": "node/13256000891",
+      "name": "星巴克",
+      "category": "cafe",
+      "coords": [
+        118.180479,
+        24.5322721
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/13379921001",
+      "name": "luckin coffee",
+      "category": "cafe",
+      "coords": [
+        118.0955054,
+        24.4641553
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13380032901",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1030911,
+        24.4652884
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13380038101",
+      "name": "Two Girls",
+      "category": "pub",
+      "coords": [
+        118.1041853,
+        24.4653611
+      ],
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "node/13380539201",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1299369,
+        24.4270421
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": "node/13380559101",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1264524,
+        24.4271085
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13387645301",
+      "name": "luckin coffee",
+      "category": "cafe",
+      "coords": [
+        118.0840163,
+        24.4389061
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13387680001",
+      "name": "瑞幸咖啡",
+      "category": "cafe",
+      "coords": [
+        118.0825845,
+        24.4423887
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "id": "node/13388020601",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.1040469,
+        24.4556516
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name:en": "Tao Yl"
+      }
+    },
+    {
+      "id": "node/13390029601",
+      "name": "Basao",
+      "category": "cafe",
+      "coords": [
+        118.0895821,
+        24.4793245
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13390047801",
+      "name": null,
+      "category": "cafe",
+      "coords": [
+        118.0834513,
+        24.4742949
+      ],
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "node/13391635701",
+      "name": null,
+      "category": "pub",
+      "coords": [
+        118.0826407,
+        24.4427215
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Suapobbe"
+      }
+    },
+    {
+      "id": "node/13437641201",
+      "name": "砂锅刀削面",
+      "category": "cafe",
+      "coords": [
+        118.0751203,
+        24.4597927
+      ],
+      "tags": {
+        "addr:housenumber": "275-101",
+        "addr:street": "大同路",
+        "amenity": "cafe",
+        "cuisine": "chinese;noodles",
+        "name:en": "Knife-cut Noodles",
+        "opening_hours": "Mo-Su 10:20-14:00, 17:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "15980935882"
+      }
+    },
+    {
+      "id": "node/13437696503",
+      "name": "山丽妍沙茶面",
+      "category": "cafe",
+      "coords": [
+        118.0752538,
+        24.4598147
+      ],
+      "tags": {
+        "addr:housenumber": "285",
+        "addr:street": "大同路",
+        "amenity": "cafe",
+        "cuisine": "chinese;noodles",
+        "name:en": "Shacha Noodles",
+        "opening_hours": "Mo-Su 11:30-20:30",
+        "outdoor_seating": "no",
+        "phone": "2112126",
+        "website": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/shan-li-yan-sha-cha-mian"
+      }
+    }
+  ]
+}
