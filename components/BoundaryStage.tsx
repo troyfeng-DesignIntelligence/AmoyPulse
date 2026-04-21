@@ -286,7 +286,7 @@ export function BoundaryStage() {
     const now = Tone.now();
     setMode("beat");
     setTriggerFlash("mixer");
-    audio.drums.kick.triggerAttackRelease(["C1", "C1", "C1"], "16n", now, 0.9 + mixer.beatIntensity * 0.25);
+    audio.drums.kick.triggerAttackRelease("C1", "16n", now, 0.9 + mixer.beatIntensity * 0.25);
     audio.drums.hat.triggerAttackRelease("32n", now + 0.006, 0.35 + mixer.beatIntensity * 0.2);
     audio.drums.kick.triggerAttackRelease("C1", "32n", now + 0.08, 0.45 + mixer.beatIntensity * 0.12);
     audio.drums.volume.volume.rampTo(-8 + mixer.beatIntensity * 12, 0.05);
