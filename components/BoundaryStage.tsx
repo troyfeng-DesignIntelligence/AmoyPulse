@@ -204,7 +204,7 @@ export function BoundaryStage() {
   const [audioReady, setAudioReady] = useState(false);
   const [mounted, setMounted] = useState(false);
   const [polygons] = useState<Polygon[]>(() => {
-    const source = filteredBoundary as { polygons?: Polygon[] };
+    const source = filteredBoundary as unknown as { polygons?: Polygon[] };
     return source.polygons ?? [];
   });
   const bounds = useMemo(() => (polygons.length ? getBounds(polygons) : { minX: 0, minY: 0, maxX: 1, maxY: 1 }), [polygons]);
